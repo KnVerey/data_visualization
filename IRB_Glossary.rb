@@ -2,21 +2,25 @@ require 'nokogiri'
 require 'open-uri'	
 
 class IRBGlossary
+
+	def initialize
+		@chapter_list = []
+	end
+
 	def add_data(term_list)
-		if term_list[0].text.length==1
-			chapter=DictChapter.new(term.text)
-		else
-			chapter=DictChapter.new("num")
-		end
+		term_list[0].text.length==1 ? chapter=DictChapter.new(term.text) : chapter=DictChapter.new("num")
 
 		term_list.each do |term|
 			if term.text.length==1
+				@chapter_list << chapter
 				chapter=DictChapter.new(term.text)
 			else
 				english = term.text
 				french = term.text
+				chapter.add_record(english, french)
 			end
 		end
+	@chapter_list << chapter
 	end
 end
 
@@ -26,8 +30,8 @@ class DictChapter
 		@entries = []
 	end
 
-	def add_record
-		
+	def add_record(english, french)
+		@entries << TermRecord.new(english, french)
 	end
 
 end
@@ -35,9 +39,7 @@ end
 class TermRecord
 	def initialize(english, french)
 		@english = english
-		@english_alpha = english[0].to_sym
 		@french = french
-		@french_alpha = french[0].to_sym
 	end
 
 end
@@ -50,10 +52,13 @@ term_list = page.css(' #ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlFiel
 page = Nokogiri::HTML(open("http://www.irb-cisr.gc.ca/Eng/BoaCom/pubs/Pages/GloLexLz.aspx"))
 term_list2 = page.css(' #ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlField p')
 
-puts term_list.each do {|term| puts term.text + "\t" + term.text}
+term_list2.each {|term| puts term.text + "\t" + term.text}
 
-# glossary = IRBGlossary.new.add_data(term_list)
-# glossary.add_data(term_list2)
+
+# enfr_glossary = IRBGlossary.new.add_data(term_list)
+# enfr_glossary.add_data(term_list2)
+
+#WILL NEED TO DO EVERYTHING A SECOND TIME FOR FR-EN
 
 # File.open('IRB_glossary.html','w') do |f|
 # 	f.puts("<html>")
