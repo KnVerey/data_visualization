@@ -2,7 +2,7 @@ class DictChapter
 	attr_reader :name, :entries, :id_to_assign
 
 	def initialize(alpha)
-		@name = alpha.to_sym
+		@name = alpha
 		@entries = []
 		@id_to_assign = 0
 	end
