@@ -50,17 +50,23 @@ class IRBGlossary
 	end
 end
 
-#SCRAPE A-K
-page = Nokogiri::HTML(open("http://www.irb-cisr.gc.ca/Eng/BoaCom/pubs/Pages/GloLexAk.aspx"))
-term_list = page.css(' #ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlField p')
+#This is not in a class. Should it be?
+def scrape_page(address)
+	page = Nokogiri::HTML(open(address))
+	data = page.css(' #ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlField p')
+	return data
+end
 
-#SCRAPE L-Z
-page = Nokogiri::HTML(open("http://www.irb-cisr.gc.ca/Eng/BoaCom/pubs/Pages/GloLexLz.aspx"))
-term_list2 = page.css(' #ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlField p')
 
 enfr_glossary = IRBGlossary.new
-enfr_glossary.add_data(term_list)
-enfr_glossary.add_data(term_list2)
+
+#ADD DATA FOR A-K
+glossary_data = scrape_page("http://www.irb-cisr.gc.ca/Eng/BoaCom/pubs/Pages/GloLexAk.aspx")
+enfr_glossary.add_data(glossary_data)
+
+#ADD DATA FOR L-Z
+glossary_data = scrape_page("http://www.irb-cisr.gc.ca/Eng/BoaCom/pubs/Pages/GloLexLz.aspx") 
+enfr_glossary.add_data(glossary_data)
 
 # enfr_glossary.chapter_list.each {|chapter| puts chapter.name}
 
