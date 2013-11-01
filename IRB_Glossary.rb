@@ -15,9 +15,12 @@ class IRBGlossary
 				@chapter_list << chapter
 				chapter=DictChapter.new(term.text)
 			else
-				english = term.text
-				french = term.text
-				chapter.add_record(english, french)
+
+				if term.css.include? "expression"
+					chapter.add_record(term.text)
+				elsif term.css.include? "translation"
+					chapter.entries.last.add_translation(term.text)
+				end
 			end
 		end
 	@chapter_list << chapter
@@ -25,20 +28,29 @@ class IRBGlossary
 end
 
 class DictChapter
+	attr_reader :entries
+
 	def initialize(alpha)
 		@name = alpha.to_sym
 		@entries = []
+		@id = 1
 	end
 
-	def add_record(english, french)
-		@entries << TermRecord.new(english, french)
+	def add_record(english)
+		@entries << TermRecord.new(english, id)
+		@id += 1
 	end
 
 end
 
 class TermRecord
-	def initialize(english, french)
+	def initialize(english, id)
 		@english = english
+		@id = id
+		@french = ""
+	end
+
+	def add_translation(french)
 		@french = french
 	end
 
@@ -55,7 +67,7 @@ term_list2 = page.css(' #ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlFie
 term_list2.each {|term| puts term.text + "\t" + term.text}
 
 
-# enfr_glossary = IRBGlossary.new.add_data(term_list)
+enfr_glossary = IRBGlossary.new.add_data(term_list)
 # enfr_glossary.add_data(term_list2)
 
 #WILL NEED TO DO EVERYTHING A SECOND TIME FOR FR-EN
