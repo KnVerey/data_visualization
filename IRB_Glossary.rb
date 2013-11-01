@@ -1,6 +1,9 @@
 require 'nokogiri'
 require 'open-uri'	
 
+require './dict_chapter.rb'
+require './term_record.rb'
+
 class IRBGlossary
 	attr_reader :chapter_list
 
@@ -9,52 +12,42 @@ class IRBGlossary
 	end
 
 	def add_data(term_list)
-		term_list[0].text.length==1 ? chapter=DictChapter.new(term_list[0].text) : chapter=DictChapter.new("NUM")
+		create_first_chapter(term_list[0].text)
 
-		term_list.each do |term|
-			if term.text.length==1
-				@chapter_list << chapter
-				chapter=DictChapter.new(term.text)
+		term_list.each do |term_data|
+			term = term_data.text
+
+			if is_heading?(term)
+				add_chapter(term)
 			else
+				current_chapter = @chapter_list[-1]
 
-				if term.css("span").to_s.include? "fr"
-					chapter.entries[chapter.new_id-2].add_translation(term.text)
+				if is_french_translation?(term_data)
+					related_english = current_chapter.entries[current_chapter.id_to_assign-1]
+					related_english.add_translation(term)
 				else
-					chapter.add_record(term.text)
+					current_chapter.add_record(term)
 				end
 			end
 		end
-	@chapter_list << chapter
-	end
-end
-
-class DictChapter
-	attr_reader :name, :entries, :new_id
-
-	def initialize(alpha)
-		@name = alpha.to_sym
-		@entries = []
-		@new_id = 1
+		puts @chapter_list[-1].entries[-1].english
 	end
 
-	def add_record(english)
-		@entries << TermRecord.new(english, @new_id)
-		@new_id += 1
+	def create_first_chapter(first_term)
+		is_heading?(first_term) ? add_chapter(first_term) : add_chapter("NUM")
 	end
 
-end
-
-class TermRecord
-	def initialize(english, id)
-		@english = english
-		@id = id
-		@french = ""
+	def is_heading?(term)
+		term.length==1
 	end
 
-	def add_translation(french)
-		@french = french
+	def is_french_translation?(term_data)
+		term_data.css("span").to_s.include? "fr"		
 	end
 
+	def add_chapter(name)
+		@chapter_list << DictChapter.new(name)
+	end
 end
 
 #SCRAPE A-K
@@ -69,7 +62,7 @@ enfr_glossary = IRBGlossary.new
 enfr_glossary.add_data(term_list)
 enfr_glossary.add_data(term_list2)
 
-enfr_glossary.chapter_list.each {|chapter| puts chapter.name}
+# enfr_glossary.chapter_list.each {|chapter| puts chapter.name}
 
 #WILL NEED TO DO EVERYTHING A SECOND TIME FOR FR-EN
 
