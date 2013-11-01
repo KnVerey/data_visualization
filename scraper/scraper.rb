@@ -2,7 +2,7 @@ require 'nokogiri'
 require 'open-uri'	
 require 'CSV'
 
-require './IRB_Glossary.rb'
+require './irb_glossary.rb'
 require './dict_chapter.rb'
 require './term_record.rb'
 
