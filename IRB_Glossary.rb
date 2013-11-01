@@ -2,13 +2,14 @@ require 'nokogiri'
 require 'open-uri'	
 
 class IRBGlossary
+	attr_reader :chapter_list
 
 	def initialize
 		@chapter_list = []
 	end
 
 	def add_data(term_list)
-		term_list[0].text.length==1 ? chapter=DictChapter.new(term.text) : chapter=DictChapter.new("num")
+		term_list[0].text.length==1 ? chapter=DictChapter.new(term_list[0].text) : chapter=DictChapter.new("NUM")
 
 		term_list.each do |term|
 			if term.text.length==1
@@ -28,7 +29,7 @@ class IRBGlossary
 end
 
 class DictChapter
-	attr_reader :entries, :new_id
+	attr_reader :name, :entries, :new_id
 
 	def initialize(alpha)
 		@name = alpha.to_sym
@@ -64,8 +65,11 @@ term_list = page.css(' #ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlFiel
 page = Nokogiri::HTML(open("http://www.irb-cisr.gc.ca/Eng/BoaCom/pubs/Pages/GloLexLz.aspx"))
 term_list2 = page.css(' #ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlField p')
 
-enfr_glossary = IRBGlossary.new.add_data(term_list)
+enfr_glossary = IRBGlossary.new
+enfr_glossary.add_data(term_list)
 enfr_glossary.add_data(term_list2)
+
+enfr_glossary.chapter_list.each {|chapter| puts chapter.name}
 
 #WILL NEED TO DO EVERYTHING A SECOND TIME FOR FR-EN
 
