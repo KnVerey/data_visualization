@@ -16,30 +16,29 @@ class IRBGlossary
 				chapter=DictChapter.new(term.text)
 			else
 
-				if term.css("p[class=\"pub-gloss-expression\"]")
+				if term.css("span").to_s.include? "fr"
+					chapter.entries[chapter.new_id-2].add_translation(term.text)
+				else
 					chapter.add_record(term.text)
-				elsif term.css("p[class=\"pub-gloss-translation\"]")
-					chapter.entries.last.add_translation(term.text)
 				end
 			end
 		end
 	@chapter_list << chapter
-	puts @chapter_list.to_s
 	end
 end
 
 class DictChapter
-	attr_reader :entries
+	attr_reader :entries, :new_id
 
 	def initialize(alpha)
 		@name = alpha.to_sym
 		@entries = []
-		@id = 1
+		@new_id = 1
 	end
 
 	def add_record(english)
-		@entries << TermRecord.new(english, @id)
-		@id += 1
+		@entries << TermRecord.new(english, @new_id)
+		@new_id += 1
 	end
 
 end
@@ -65,11 +64,8 @@ term_list = page.css(' #ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlFiel
 page = Nokogiri::HTML(open("http://www.irb-cisr.gc.ca/Eng/BoaCom/pubs/Pages/GloLexLz.aspx"))
 term_list2 = page.css(' #ctl00_PlaceHolderMain_ctl00__ControlWrapper_RichHtmlField p')
 
-# term_list2.each {|term| puts term.text + "\t" + term.text}
-
-
 enfr_glossary = IRBGlossary.new.add_data(term_list)
-# enfr_glossary.add_data(term_list2)
+enfr_glossary.add_data(term_list2)
 
 #WILL NEED TO DO EVERYTHING A SECOND TIME FOR FR-EN
 
