@@ -1,19 +1,19 @@
 class Glossary
 	attr_reader :chapter_list
 
-	def initialize(csv_data)
+	def initialize(csv_data, reverse=false)
 		@chapter_list = []
 
-		add_chapter(csv_data[0][0][0])
+		if reverse; source = 1; translation = 0
+		else; source = 0; translation = 1; end
+
+		add_chapter(csv_data[0][source][0])
 
 		csv_data.each do |record|
-			# record[0] = source language
-			# record[1] = target language
-			# @chapter_list[-1] = current chapter
 
-			add_chapter(record[0][0]) if (record[0][0].downcase != @chapter_list[-1].name.downcase) && record[0][0].to_i == 0
+			add_chapter(record[source][0]) if (record[source][0].downcase != @chapter_list[-1].name.downcase) && record[source][0].to_i == 0
 
-			@chapter_list[-1].add_record(record[0], record[1])
+			@chapter_list[-1].add_record(record[source], record[translation])
 		end
 	end
 
@@ -24,4 +24,5 @@ class Glossary
 			@chapter_list << DictChapter.new(name)
 		end
 	end
+
 end
