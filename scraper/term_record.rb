@@ -2,13 +2,12 @@ class TermRecord
 	attr_reader :english, :french, :id
 
 	def initialize(english, id)
-		@english = english#.gsub("\n", " ")
-		@id = id
+		@english = english
 		@french = ""
 	end
 
 	def add_translation(french)
-		@french = french#.gsub("\n", " ")
+		@french = french
 	end
 
 end
