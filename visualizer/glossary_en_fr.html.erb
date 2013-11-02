@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="v-100p med-bg">
+<html lang="en" class="v-100p light-bg">
 	<head>
 		<title>IRB Glossary: English to French</title>
 		<link rel="stylesheet" href="stylesheet.css"/>
@@ -17,6 +17,11 @@
 		</header>
 
 			<section id="carousel" class="h-full container med-bg">
+				<a href="#carousel" class="abs_left carousel-control"><img class="abs_left" src="Images/glyphicons_224_chevron-left.png"></a>
+				<h3>
+					<%= @ch_name %>
+				</h3>
+				<a href="#carousel" class="abs_right carousel-control"><img class="abs_right" src="Images/glyphicons_223_chevron-right.png" alt=""></a>
 				<ol id="carousel-indicators">
 				  <% @glossary_list.ch_list.alpha_list.each do |letter|%>
 				    <a><li><%= letter.upcase %></li></a>
@@ -25,7 +30,7 @@
 			</section>
 
 		<footer class="darkest-bg h-full">
-			<p>Information reproduced from <a href="http://www.irb-cisr.gc.ca">www.irb-cisr.gc.ca</a> for non-commercial purposes in accordance with that site's <a href="http://www.irb-cisr.gc.ca/Eng/notavi/Pages/index.aspx">Terms and Conditions</a>.</p>
+			<p>Information reproduced from <a href="http://www.irb-cisr.gc.ca">www.irb-cisr.gc.ca</a> for non-commercial purposes in accordance with that site's <a href="http://www.irb-cisr.gc.ca/Eng/notavi/Pages/index.aspx">Terms and Conditions</a>. Icons from <a href="http://glyphicons.com/">glyphicons.com</a></p>
 		</footer>
 	</body>
 </html>
