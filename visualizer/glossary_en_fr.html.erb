@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" class="v-100p med-bg">
+	<head>
+		<title>IRB Glossary: English to French</title>
+		<link rel="stylesheet" href="stylesheet.css"/>
+		<link type="image/ico" rel="shortcut icon" href="Images/favicon.ico"/>
+		<meta charset="UTF-8"/>
+	</head>
+
+	<body class="h-full v-100p dark-bg">
+		<header class="h-full container darkest-bg">
+			<h3 id="title" class="left"><%= @glossary_title %></h3>
+			<form action="search_results.html" class="right vcenter">
+				<input type="search" id="GET-search" name="search_field" placeholder="Find a term" autofocus="true" size="35px" autocomplete="off">
+				<input type="submit" value="search">
+			</form>
+		</header>
+
+		<main class="h-full container dark-bg">
+			<section id="carousel" class="h-full container med-bg">
+				<ol id="carousel-indicators">
+				  <% @glossary_list.ch_list.alpha_list.each do |letter|%>
+				    <a><li><%= letter.upcase %></li></a>
+				  <% end %>
+				</ol>
+			</section>
+
+		</main>
+		<footer class="darkest-bg h-full">
+			<p>Information reproduced from <a href="http://www.irb-cisr.gc.ca">www.irb-cisr.gc.ca</a> for non-commercial purposes in accordance with that site's <a href="http://www.irb-cisr.gc.ca/Eng/notavi/Pages/index.aspx">Terms and Conditions</a>.</p>
+		</footer>
+		
+	</body>
+</html>
