@@ -1,15 +1,14 @@
 class TermRecord
-	attr_accessor :source_lang, :target_lang
-	attr_reader :id
+	attr_accessor :source_lang_term, :translation, :id
 
-	def initialize(source, target, id)
-		@source_lang = source
-		@target_lang = target
-		@id = id
+	def initialize(source_lang_term, translation)
+		@source_lang_term = source_lang_term
+		@translation = translation
+		@id = 0
 	end
 
 	def output_record
-		puts id.to_s + ": " + source_lang + "\t\t" + target_lang
+		puts id.to_s + ": " + source_lang_term + "\t\t" + translation
 	end
 
 end

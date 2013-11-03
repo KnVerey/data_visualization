@@ -2,26 +2,37 @@ class Glossary
 	attr_reader :chapter_list
 
 	def initialize(csv_data, reverse=false)
-		@chapter_list = []
+		@all_records = []
+		@id_to_assign = 0
 
-		if reverse; source = 1; translation = 0
-		else; source = 0; translation = 1; end
-
-		add_chapter(csv_data[0][source][0])
+		if reverse; source_lang_term = 1; translation = 0
+		else; source_lang_term = 0; translation = 1; end
 
 		csv_data.each do |record|
+			@all_records << TermRecord.new(record[source_lang_term], record[translation])
+		end
 
-			add_chapter(record[source][0]) if (record[source][0].downcase != @chapter_list[-1].name.downcase) && record[source][0].to_i == 0
+		@all_records.sort_by! {|record| record.source_lang_term }
 
-			@chapter_list[-1].add_record(record[source], record[translation])
+		assign_ids
+	end
+
+	def assign_ids
+		@all_records.each do |record|
+			record.id = @id_to_assign
+			@id_to_assign += 1
 		end
 	end
 
-	def add_chapter(name)
-		if name.to_i != 0 
-			@chapter_list << DictChapter.new("NUM")
-		else
-			@chapter_list << DictChapter.new(name)
+	def output_records_at(letter)
+		@all_records.each do |record|
+			term_char1 = record.source_lang_term[0]
+
+			if letter=="#"
+				record.output_record if %w[1 2 3 4 5 6 7 8 9 0].include?(term_char1)
+			elsif term_char1.upcase == letter.upcase
+				record.output_record 
+			end
 		end
 	end
 
