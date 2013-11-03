@@ -8,7 +8,7 @@ class TermRecord
 	end
 
 	def output_record
-		puts id.to_s + ": " + source_lang_term + "\t\t" + translation
+		id.to_s + ": " + source_lang_term + "\t\t" + translation
 	end
 
 end

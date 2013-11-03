@@ -1,5 +1,9 @@
 class Glossary
-	attr_reader :chapter_list
+	attr_reader :all_records, :description
+
+	def get_binding
+		binding()
+	end
 
 	def initialize(description, csv_data, reverse=false)
 		@all_records = []
