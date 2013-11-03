@@ -11,7 +11,7 @@
 "ASD (see Alternative Service Delivery) ","DMPS (voir diversification des modes de prestation des services) "
 "ATIP (see Access to Information and Privacy) ","AIPRP (voir Accès à l'information et protection des renseignements personnels) "
 ATIP Advisory Group ,Groupe consultatif sur l' AIPRP
-ATIPflowNOTE A computer software package used to track the processing of access requests.,ATIPflowNOTA Système de suivi du traitement des demandes de communication.
+ATIPflow NOTE: A computer software package used to track the processing of access requests.,ATIPflow NOTA: Système de suivi du traitement des demandes de communication.
 "ATIP/SP (see Access to Information and Privacy and Special Projects) ","AIPRP/PS (voir Accès à l'information, protection des renseignements personnels et projets spéciaux) "
 "ATS (see Adjudication Tracking System) ","SSA (voir Système de suivi des cas d'arbitrage) "
 "abandoned, to declare a claim; abandoned, to determine that a proceeding has been",prononcer le désistement d'une demande d'asile
@@ -33,15 +33,15 @@ accreditation test (for interpreters),examen d'accréditation (des interprètes)
 active case,cas actif
 "adjournment (of a hearing, of an admissibility hearing)","ajournement (d'une audience, d'une enquête)"
 adjournment sine die,ajournement sine die
-Adjudication DivisionNOTE Now called Immigration Division under IRPA. ,"Section d'arbitrage  NOTA Maintenant appelée Section de l'immigration sous le régime de la LIPR. "
+Adjudication Division NOTE: Now called Immigration Division under IRPA. ,"Section d'arbitrage   NOTA: Maintenant appelée Section de l'immigration sous le régime de la LIPR. "
 adjudication process,processus décisionnel
 adjudication strategy,stratégie décisionnelle
 Adjudication Tracking System (ATS) ,Système de suivi des cas d'arbitrage (SSA) 
 Adjudicative Support and Special Initiative Directorate (ASSID) ,Direction des services de soutien et des initiatives spéciales (DSSIS) 
-adjudicatorNOTE Now called member under IRPA. ,arbitreNOTA Maintenant appelé commissaire sous le régime de la LIPR. 
+adjudicator NOTE: Now called member under IRPA. ,arbitre NOTA: Maintenant appelé commissaire sous le régime de la LIPR. 
 Administrative Framework Agreement (AFA) ,Entente cadre administrative (ECA) 
 admissibility (to Canada),entrée et séjour (au Canada)
-"admissibility hearingNOTE Formerly called ""inquiry"" under the Immigration Act. ",enquête
+"admissibility hearing NOTE: Formerly called ""inquiry"" under the Immigration Act. ",enquête
 "admissibility hearing, to hold an",procéder à une enquête
 admissibility hearing data sheet,fiche de données sur l'enquête
 adopted child,enfant adoptif; adopté
@@ -64,7 +64,7 @@ alleged country of citizenship,pays présumé de citoyenneté
 "allow a claim for refugee protection without a hearing, to",accueillir une demande d'asile sans qu'une audience ne soit tenue; accueillir une demande d'asile sans tenir d'audience
 "allowed to withdraw an application, to be",être autorisé à retirer une demande
 alternative dispute resolution case clerk,commis préposé aux cas traités suivant le mode alternatif de règlement des litiges
-"Alternative Dispute Resolution Process (ADRP)NOTE Formerly called ""Alternative Dispute Resolution (ADR)"" under the Immigration Act. ",mode alternatif de règlement des litiges (MARL)NOTA Auparavant appelé « mode alternatif de règlement des conflits (MARC) » sous le régime de la Loi sur l'immigration. 
+"Alternative Dispute Resolution Process (ADRP) NOTE: Formerly called ""Alternative Dispute Resolution (ADR)"" under the Immigration Act. ",mode alternatif de règlement des litiges (MARL) NOTA: Auparavant appelé « mode alternatif de règlement des conflits (MARC) » sous le régime de la Loi sur l'immigration. 
 Alternative Service Delivery (ASD) ,diversification des modes de prestation des services (DMPS) 
 alternative to detention,solution de rechange à la détention
 amendment,amendement (d'un projet de loi); modification (d'une loi)
@@ -95,7 +95,7 @@ appearance of bias,apparence de partialité
 appellant,appelant
 Appellants' Guide to ADR Conference ,Guide des appelants sur la conférence du MARL
 applicable provision,disposition applicable
-applicant,demandeurNOTA Auparavant appelé « requérant » sous le régime de la Loi sur l'immigration. 
+applicant,demandeur NOTA: Auparavant appelé « requérant » sous le régime de la Loi sur l'immigration. 
 application,demande
 "application by the Minister, on",à la/sur demande du ministre
 application for determination of cessation of refugee protection,demande relative à la perte de l'asile
@@ -160,7 +160,7 @@ breach (n.) ; non-compliance; failure to comply ,"infraction (à une règle, à 
 "breach, to; contravene, to; infringe, to",violer; contrevenir; enfreindre
 breach of natural justice,manquement à la justice naturelle; entorse à la justice naturelle
 Briefing Book for Members,Cahier d'information à l'intention des commissaires
-briefing NOTE ,NOTE d'information; NOTE documentaire
+briefing note,note d'information; note documentaire
 "bring to a hearing/proceeding, to",amener à une audience/à une procédure
 burden of proof; onus of proof,fardeau de la preuve; charge de la preuve
 business line training program,programme de formation axée sur les secteurs d'activité
@@ -207,7 +207,7 @@ Business Requirements Committee (BRC) ,Comité sur les exigences de fonctionneme
 "CPO (see case presenting officer) ","APC (voir agent de présentation des cas) "
 "CPSB (see Corporate Planning and Services Branch) ","DGPSI (voir Direction générale de la planification et des services intégrés) "
 "CRC (seeConvention on the Rights of the Child[ UN] ) ","CRDE (voirConvention relative aux droits de l'enfant[ ONU] ) "
-"CRDD (see Convention Refugee Determination Division)NOTE Now called Refugee Protection Division (RPD) under IRPA. ","SSR (voir Section du statut de réfugié)NOTA Maintenant appelée Section de la protection des réfugiés (SPR) sous le régime de la LIPR. "
+"CRDD (see Convention Refugee Determination Division) NOTE: Now called Refugee Protection Division (RPD) under IRPA. ","SSR (voir Section du statut de réfugié) NOTA: Maintenant appelée Section de la protection des réfugiés (SPR) sous le régime de la LIPR. "
 "CSB (see Corporate Services Branch) ","DGSG (voir Direction générale des services de gestion) "
 "CTMS (see Claim Type Management System) ","SGTDDA (voir Système de gestion des types de données concernant les demandes d'asile) "
 "call a witness, to",convoquer un témoin; faire comparaître un témoin
@@ -263,24 +263,24 @@ Charter challenge,contestation fondée sur la Charte
 Charter issue,question qui fait intervenir la Charte; question qui se rapporte à la Charte; question portant sur des dispositions de la Charte
 chief executive officer,premier dirigeant
 chief operating officer (COO) ,administrateur en chef des opérations (ACF) 
-Child Refugee Claimants: Procedural and Evidentiary IssuesNOTE Chairperson's guidelines.,Les enfants qui revendiquent le statut de réfugié : Questions relatives à la preuve et à la procédureNOTA Directives du président.
+Child Refugee Claimants: Procedural and Evidentiary Issues NOTE: Chairperson's guidelines.,Les enfants qui revendiquent le statut de réfugié : Questions relatives à la preuve et à la procédure NOTA: Directives du président.
 Chinese birth control-based claim,demande d'asile invoquant la politique de contrôle des naissances de la Chine
 circumstances of the case,circonstances de l'espèce
 circumstantial evidence,preuve circonstancielle
 citizenship,citoyenneté
-Citizenship and Immigration Canada (CIC) ,Commission de la citoyennetéNOTA Tribunal administratif séparé de Citoyenneté et Immigration Canada.
+Citizenship and Immigration Canada (CIC) ,Commission de la citoyenneté NOTA: Tribunal administratif séparé de Citoyenneté et Immigration Canada.
 civil and political rights,droits civils et politiques
 Civilian Non-Combatants Fearing Persecution in Civil War Situations,Civils non combattants qui craignent d'être persécutés dans des situations de guerre civile
 civil standard of proof,norme civile de preuve
 civil war,guerre civile
 civil war claim,demande d'asile liée à la guerre civile
-Civil War GuidelinesNOTE Short title of the guidelines entitled Civilian Non-Combatants Fearing Persecution in Civil War Situations. ,Directives concernant la guerre civileNOTA Titre abrégé des directives intitulées Civils non combattants qui craignent d'être persécutés dans des situations de guerre civile. 
-claimant; person who claims refugee protection; refugee claimant; refugee protection claimant,demandeur(e) d'asile; personne qui demande l'asileNOTA Auparavant appelé « revendicateur ».
+Civil War Guidelines NOTE: Short title of the guidelines entitled Civilian Non-Combatants Fearing Persecution in Civil War Situations. ,Directives concernant la guerre civile NOTA: Titre abrégé des directives intitulées Civils non combattants qui craignent d'être persécutés dans des situations de guerre civile. 
+claimant; person who claims refugee protection; refugee claimant; refugee protection claimant,demandeur(e) d'asile; personne qui demande l'asile NOTA: Auparavant appelé « revendicateur ».
 Claimant's Confirmation of Readiness letter,lettre de confirmation de la disponibilité du demandeur d'asile
 claimant-specific information,renseignements précis sur le demandeur d'asile
 claimant-specific research,recherche de renseignements précis sur un demandeur d'asile
 claim for a remedy,demande de réparation
-claim for refugee protection; refugee protection claim,demande d'asileNOTA Auparavant appelée « revendication » sous le régime de la Loi sur l'immigration. 
+claim for refugee protection; refugee protection claim,demande d'asile NOTA: Auparavant appelée « revendication » sous le régime de la Loi sur l'immigration. 
 claim for refugee protection determined; finalized claim for refugee protection,demande d'asile réglée
 claim for refugee protection heard,demande d'asile entendue
 claim for refugee protection pending,demande d'asile en instance
@@ -295,25 +295,25 @@ Classification Operations Division,Section des opérations de classification
 clear evidence,preuve manifeste
 client identification number,numéro d'identification du client
 Client Services,Services à la clientèle
-"closed hearing; private hearingNOTE A hearing that is closed to the public. Formerly called ""in-camera hearing"" under the Immigration Act. ",audience à huis closNOTA Audience tenue sans la présence du public.
+"closed hearing; private hearing NOTE: A hearing that is closed to the public. Formerly called ""in-camera hearing"" under the Immigration Act. ",audience à huis clos NOTA: Audience tenue sans la présence du public.
 Code of Conduct for Interpreters,Code de conduite des interprètes
 Code of Conduct for Members of the Immigration and Refugee Board of Canada,Code de déontologie des commissaires de la Commission de l'immigration et du statut de réfugié du Canada
 collateral,accessoire
 coming into force (n.) ,entrée en vigueur
 commencement of appeal,formation de l'appel
-CommentaryNOTE Legal Services documents.,CommentairesNOTA Documents des Services juridiques auparavant appelés « Observations ».
+Commentary NOTE: Legal Services documents.,Commentaires NOTA: Documents des Services juridiques auparavant appelés « Observations ».
 common crime; non-political crime; ordinary law crime,crime de droit commun
 common-law partner,conjoint de fait
 common-law partnership,relation de conjoint de fait
-Common Look and Feel Standards and GuidelinesNOTE Treasury Board guidelines.,Normes et lignes directrices sur la normalisation des sites InternetNOTA Lignes directrices du Conseil du Trésor.
+Common Look and Feel Standards and Guidelines NOTE: Treasury Board guidelines.,Normes et lignes directrices sur la normalisation des sites Internet NOTA: Lignes directrices du Conseil du Trésor.
 common purpose,intention commune
 common rules,règles communes
-"Communications and Executive Services Branch (CESB)NOTE Formerly called ""Executive Secretariat Branch (ESB)"" . ",Direction générale des communications et des services à la haute direction (DGCSHD)NOTA Auparavant appelée « Direction générale du secrétariat de la haute direction (DGSHD) » . 
-Communications DirectorateNOTE Formerly called Public and Parliamentary Affairs Directorate.,Direction des communicationsNOTA Auparavant appelée Direction des affaires publiques et parlementaires.
+"Communications and Executive Services Branch (CESB) NOTE: Formerly called ""Executive Secretariat Branch (ESB)"" . ",Direction générale des communications et des services à la haute direction (DGCSHD) NOTA: Auparavant appelée « Direction générale du secrétariat de la haute direction (DGSHD) » . 
+Communications Directorate NOTE: Formerly called Public and Parliamentary Affairs Directorate.,Direction des communications NOTA: Auparavant appelée Direction des affaires publiques et parlementaires.
 compellability,contraignabilité
 compelling evidence,preuve péremptoire; preuve contraignante
 compelling reasons,raisons impérieuses
-competencyNOTE Refers to whether a person has the mental capacity to testify.,capacitéNOTA Capacité mentale d'une personne de témoigner.
+competency NOTE: Refers to whether a person has the mental capacity to testify.,capacité NOTA: Capacité mentale d'une personne de témoigner.
 competency-based management (CBM) ,gestion axée sur les compétences (GAC) 
 completed appeal,appel réglé
 completed reasons; reasons completed,motifs rédigés
@@ -360,10 +360,10 @@ Contingency Plan Working Group,Groupe de travail sur les plans d'intervention d'
 "continue, to (a proceeding, a hearing); resume, to (a proceeding, a hearing, an admissibility hearing); reconsider, to (an appeal)","reprendre (l'étude d'une demande d'asile, une audience, une procédure, une affaire, une enquête, un appel)"
 continued detention,maintien en détention
 "contravene, to; infringe, to; breach, to",contrevenir; enfreindre; violer
-"Convention Against Torture (CAT)NOTE Short title of the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment. ","Convention contre la torture (CCT)NOTA Titre abrégé de la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants. "
+"Convention Against Torture (CAT) NOTE: Short title of the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment. ","Convention contre la torture (CCT) NOTA: Titre abrégé de la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants. "
 Convention on the Rights of the Child (CRC) [ UN] ,Convention relative aux droits de l'enfant (CRDE) [ ONU] 
 Convention refugee,réfugié au sens de la Convention
-Convention Refugee Determination Division (CRDD)NOTE Now called Refugee Protection Division (RPD) under IRPA. ,Section du statut de réfugié (SSR)NOTA Maintenant appelée Section de la protection des réfugiés (SPR) sous le régime de la LIPR. 
+Convention Refugee Determination Division (CRDD) NOTE: Now called Refugee Protection Division (RPD) under IRPA. ,Section du statut de réfugié (SSR) NOTA: Maintenant appelée Section de la protection des réfugiés (SPR) sous le régime de la LIPR. 
 Convention refugees abroad class,catégorie des réfugiés au sens de la Convention outre-frontières
 "conviction on indictment, on; indictment, by way of; indictment, on conviction on",par mise en accusation
 coordinating member (CM) ,commissaire coordonnateur (CC) 
@@ -376,7 +376,7 @@ Corporate Fund,Fonds généraux
 Corporate Management and Services,Gestion et services généraux
 Corporate Management Directorate (CMD) ,Direction de la gestion intégrée (DGI) 
 Corporate Planning and Management Practices Directorate (CPMPD) ,Direction de la planification générale et des pratiques de gestion (DPGPG) 
-"Corporate Planning and Services Branch (CPSB)NOTE Formerly called Corporate Services Branch, which then included human resources management responsibilities. The latter have been transfered to the newly created Human Resources and Professional Development Branch. The CPSB now assumes responsibility for the strategic planning function as well as reporting to Parliament. ","Direction générale de la planification et des services intégrés (DGPSI)NOTA Auparavant appelée Direction générale des services de gestion, qui incluait alors la gestion des ressources humaines. Ces responsabilités ont été transférées à la nouvelle Direction générale des ressources humaines et du perfectionnement professionnel. La DGPSI intègre maintenant les responsabilités de planification stratégique et des rapports au Parlement. "
+"Corporate Planning and Services Branch (CPSB) NOTE: Formerly called Corporate Services Branch, which then included human resources management responsibilities. The latter have been transfered to the newly created Human Resources and Professional Development Branch. The CPSB now assumes responsibility for the strategic planning function as well as reporting to Parliament. ","Direction générale de la planification et des services intégrés (DGPSI) NOTA: Auparavant appelée Direction générale des services de gestion, qui incluait alors la gestion des ressources humaines. Ces responsabilités ont été transférées à la nouvelle Direction générale des ressources humaines et du perfectionnement professionnel. La DGPSI intègre maintenant les responsabilités de planification stratégique et des rapports au Parlement. "
 Corporate Priorities and Performance Targets,Objectifs de rendement et priorités globales
 "Corporate Resourcing, Classification and Official Languages","Ressourcement, classification et langues officielles, siège de la CISR"
 Corporate Security at NHQ; NHQ Corporate Security ,Services de sécurité du siège de la Commission
@@ -392,11 +392,11 @@ country of alleged persecution,pays présumé de persécution
 country of former habitual residence,pays de résidence habituelle antérieure
 country of last permanent residence (CLPR) ,pays de dernière résidence permanente (PDRP) 
 country of origin,pays d'origine; pays de naissance
-"Country-of-Origin Information (COI) Working GroupNOTE Group associated with the Intergovernmental Consultations (IGC) on Asylum, Refugee and Migration Policies in Europe, North America and Australia. ","Groupe de travail des renseignements sur les pays d'origineNOTA Sous l'égide du Groupe des consultations intergouvernementales (GCI) sur les politiques d'asile, de reconnaissance du statut de réfugié et de migration en Europe, en Amérique du Nord et en Australie. "
-Country-of-Origin Information Unit (COIU)NOTE Formerly called Information Services Unit (ISU) ,Section de la recherche sur les pays d'origine (SRPO)NOTA Auparavant appelée Section des services de renseignements (SDSR) 
+"Country-of-Origin Information (COI) Working Group NOTE: Group associated with the Intergovernmental Consultations (IGC) on Asylum, Refugee and Migration Policies in Europe, North America and Australia. ","Groupe de travail des renseignements sur les pays d'origine NOTA: Sous l'égide du Groupe des consultations intergouvernementales (GCI) sur les politiques d'asile, de reconnaissance du statut de réfugié et de migration en Europe, en Amérique du Nord et en Australie. "
+Country-of-Origin Information Unit (COIU) NOTE: Formerly called Information Services Unit (ISU) ,Section de la recherche sur les pays d'origine (SRPO) NOTA: Auparavant appelée Section des services de renseignements (SDSR) 
 Country-of-Origin Research,Recherche sur les pays d'origine
 country of reference,pays de référence
-Country Reports on Human Rights PracticesNOTE Document published by the United States Department of State.,Country Reports on Human Rights PracticesNOTA Document publié par le Département d'État des États-Unis.
+Country Reports on Human Rights Practices NOTE: Document published by the United States Department of State.,Country Reports on Human Rights Practices NOTA: Document publié par le Département d'État des États-Unis.
 country specialization,spécialisation par pays
 "Court of Appeal (CA) (see Federal Court of Appeal) ","Cour d'appel (CA) (voir Cour d'appel fédérale) "
 court of competent jurisdiction,tribunal compétent
@@ -465,7 +465,7 @@ deemed to be,réputé être
 "defect, to",faire défection; fuir son pays
 delegation of authority for personnel actions,délégation de pouvoirs concernant les mesures touchant le personnel
 "demonstrate the merits, to (of a claim for refugee protection, of an appeal)","démontrer le bien-fondé (d'une demande d'asile, d'un appel)"
-de novo hearing; hearing de novoNOTE A completely new hearing.,audience de novo; nouvelle audienceNOTA Audience complètement nouvelle.
+de novo hearing; hearing de novo NOTE: A completely new hearing.,audience de novo; nouvelle audience NOTA: Audience complètement nouvelle.
 Departmental Advisory Committee on Employment Equity (DACEE) ,Comité consultatif ministériel sur l'équité en matière d'emploi (CCMEE) 
 departmental assessment (DA) ,évaluation ministérielle (EM) 
 departure order,mesure d'interdiction de séjour
@@ -483,7 +483,7 @@ desertion,désertion; défection
 designated person,personne désignée
 designated representative,représentant désigné
 Design Standards and Guidelines,Guide des normes graphiques
-detained person caseNOTE Means the case of a person in detention.,cas d'une personne détenue
+detained person case NOTE: Means the case of a person in detention.,cas d'une personne détenue
 detention,détention
 detention and release,détention et mise en liberté
 detention facility,établissement de détention
@@ -526,7 +526,7 @@ duty of candour (to the Court),obligation de franchise (envers la Cour)
 "EIS (see Executive Information System) ","SICS (voir Système d'information pour cadres supérieurs) "
 "EP (see expedited process) ","PA (voir processus accéléré) "
 "ERIR (see Extended Response to Information Request) ","RADI (voir Réponse approfondie à la demande d'information) "
-"ESB (see Executive Secretariat Branch)NOTE Now called Communications and Executive Services Branch (CESB) .","DGSHD (voir Direction générale du secrétariat de la haute direction)NOTA Maintenant appelée Direction générale des communications et des services à la haute direction (DGCSHD) ."
+"ESB (see Executive Secretariat Branch) NOTE: Now called Communications and Executive Services Branch (CESB) .","DGSHD (voir Direction générale du secrétariat de la haute direction) NOTA: Maintenant appelée Direction générale des communications et des services à la haute direction (DGCSHD) ."
 "ESR (see Employment Systems Review) ","ESE (voir examen des systèmes d'emploi) "
 early hearing,audition anticipée
 early referral,cas déféré au début du processus
@@ -546,10 +546,10 @@ Employment Systems Review (ESR) ,examen des systèmes d'emploi (ESE)
 "endanger public safety, to",compromettre la sécurité publique
 end-of-mandate performance report,rapport de rendement de fin de mandat
 enforceable removal order; enforcement of a removal order,mesure de renvoi exécutoire; exécution d'une mesure de renvoi
-"enshrined rights; entrenched rights (in a charter, in a constitution)","droits garantis (par/dans une charte, une constitution); droits inscrits; droits prévus (dans une charte, une constitution) NOTA À éviter : droits enchâssés."
+"enshrined rights; entrenched rights (in a charter, in a constitution)","droits garantis (par/dans une charte, une constitution); droits inscrits; droits prévus (dans une charte, une constitution)  NOTA: À éviter : droits enchâssés."
 "enter and remain in Canada, to",entrer et séjourner au Canada
 "entertain an appeal, to",connaître d'un appel
-"entrenched rights; enshrined rights (in a charter, in a constitution)","droits garantis (par/dans une charte, une constitution); droits inscrits; droits prévus (dans une charte, une constitution) NOTA À éviter : droits enchâssés."
+"entrenched rights; enshrined rights (in a charter, in a constitution)","droits garantis (par/dans une charte, une constitution); droits inscrits; droits prévus (dans une charte, une constitution)  NOTA: À éviter : droits enchâssés."
 entry,entrée; arrivée
 equality before the law,égalité devant la loi
 equivalencing,établissement d'équivalences
@@ -564,9 +564,9 @@ evidence; testimony,preuve; élément de preuve; témoignage
 "evidence, to take",recueillir des témoignages; entendre la preuve
 evidence on exclusion,éléments de preuve relatifs à l'exclusion
 evidence on inclusion,éléments de preuve relatifs à l'inclusion
-"evidentiary burden of proofNOTE It may shift during a hearing, depending on what happens during the proceedings.","fardeau de présentation de la preuveNOTA Il peut varier au cours de l'audience, selon ce qui se produit pendant la procédure."
+"evidentiary burden of proof NOTE: It may shift during a hearing, depending on what happens during the proceedings.","fardeau de présentation de la preuve NOTA: Il peut varier au cours de l'audience, selon ce qui se produit pendant la procédure."
 examination (of a witness; of a document),interrogatoire (d'un témoin); contrôle; inspection (d'un document)
-"examination-in-chiefNOTE Initial questioning of a witness by the party who called the witness. Also called ""direct examination"" or ""examination of a witness"".",interrogatoire principalNOTA Ensemble des questions posées à un témoin par la partie qui l'a appelé à la barre. Aussi appelé « interrogatoire d'un témoin ».
+"examination-in-chief NOTE: Initial questioning of a witness by the party who called the witness. Also called ""direct examination"" or ""examination of a witness"".",interrogatoire principal NOTA: Ensemble des questions posées à un témoin par la partie qui l'a appelé à la barre. Aussi appelé « interrogatoire d'un témoin ».
 examination under oath,interrogatoire sous serment
 exceptional circumstance,circonstance exceptionnelle
 "excessive demand on health or social services, might reasonably be expected to cause",risquer d'entraîner un fardeau excessif pour les services sociaux ou de santé
@@ -576,7 +576,7 @@ executive assistant (to the chairperson),adjoint de direction (du président)
 executive correspondence coordinator,"coordonnateur, Correspondance de la haute direction"
 executive director (of the IRB) ,secrétaire général (de la CISR) 
 Executive Information System (EIS) ,Système d'information pour cadres supérieurs (SICS) 
-Executive Secretariat Branch (ESB)NOTE Now called Communications and Executive Services Branch (CESB) .,Direction générale du secrétariat de la haute direction (DGSHD)NOTA Maintenant appelée Direction générale des communications et des services à la haute direction (DGCSHD) .
+Executive Secretariat Branch (ESB) NOTE: Now called Communications and Executive Services Branch (CESB) .,Direction générale du secrétariat de la haute direction (DGSHD) NOTA: Maintenant appelée Direction générale des communications et des services à la haute direction (DGCSHD) .
 exempted information,information confidentielle; information non accessible au public; renseignements protégés
 exhibit,pièce
 exodus,exode; fuite massive
@@ -615,7 +615,7 @@ fair hearing,audition équitable
 fairness,équité
 false document; fraudulent document,faux document; document frauduleux
 false statement; misrepresentation,fausse déclaration; présentation erronée
-family class,catégorie du regroupement familialNOTA Auparavant appelée « catégorie des parents » ou « catégorie de la famille » sous le régime de la Loi sur l'immigration. 
+family class,catégorie du regroupement familial NOTA: Auparavant appelée « catégorie des parents » ou « catégorie de la famille » sous le régime de la Loi sur l'immigration. 
 family class sponsorship,parrainage au titre de la catégorie du regroupement familial
 family class sponsorship application,demande de parrainage au titre de la catégorie du regroupement familial
 family member,membre de la famille
@@ -630,7 +630,7 @@ Federal Court of Appeal (FCA) ,Cour d'appel fédérale (CAF)
 Federal Court Reports (FCR) ,Recueils des arrêts de la Cour fédérale (RCF) 
 Federal Court Rules (FCR) ,Règles de la Cour fédérale (RCF) 
 Federal Courts Act,Loi sur les Cours fédérales
-fettering of discretionNOTE Failure to recognize or to apply the full extent of discretion given to a panel.,entrave à l'exercice du pouvoir discrétionnaireNOTA Défaut de reconnaître l'étendue du pouvoir discrétionnaire dont est investi un tribunal.
+fettering of discretion NOTE: Failure to recognize or to apply the full extent of discretion given to a panel.,entrave à l'exercice du pouvoir discrétionnaire NOTA: Défaut de reconnaître l'étendue du pouvoir discrétionnaire dont est investi un tribunal.
 Field Operations Support System (FOSS) ,Système de soutien des opérations des bureaux locaux (SSOBL) 
 "file an appeal, to; appeal, to (against a decision/to the Division); make an appeal, to ",en appeler; porter en appel; former un appel; interjeter appel (d'une décision devant/auprès de la Section)
 file flow,acheminement des dossiers
@@ -671,13 +671,13 @@ full and proper examination (of a claim for refugee protection),examen approfond
 full and proper hearing (of the case),instruction approfondie (de l'affaire)
 full hearing,audition complète
 fundamental freedoms,libertés fondamentales
-fundamental justiceNOTE A wider term than the principles of natural justice in that it covers both procedural rights and substantive legal rights.,justice fondamentaleNOTA Expression ayant une portée plus large que les principes de justice naturelle parce qu'elle comprend à la fois les droits procéduraux et les droits fondamentaux.
+fundamental justice NOTE: A wider term than the principles of natural justice in that it covers both procedural rights and substantive legal rights.,justice fondamentale NOTA: Expression ayant une portée plus large que les principes de justice naturelle parce qu'elle comprend à la fois les droits procéduraux et les droits fondamentaux.
 "GCWCC (see Government of Canada Workplace Charitable Campaign) ","CCMTGC (voir Campagne de charité en milieu de travail du gouvernement du Canada) "
 GIC appointee; Governor in Council appointee ,personne nommée par décret (PND); personne nommée par le gouverneur en conseil 
-GIC (Governor in Council) Secretariat Services Directorate NOTE Formerly called Secretariat Services and part of the Communications and Executive Secretariat Branch. Now reports directly to the Chairperson's office.,Direction des services de secrétariat pour les PND (personnes nommées par décret)NOTA Auparavant appelée Services de secrétariat et relevait de la Direction générale des Communications et des services à la haute direction; relève maintenant du bureau du président.
+GIC (Governor in Council) Secretariat Services Directorate  NOTE: Formerly called Secretariat Services and part of the Communications and Executive Secretariat Branch. Now reports directly to the Chairperson's office.,Direction des services de secrétariat pour les PND (personnes nommées par décret) NOTA: Auparavant appelée Services de secrétariat et relevait de la Direction générale des Communications et des services à la haute direction; relève maintenant du bureau du président.
 gender-based claim for refugee protection,demande d'asile fondée sur le sexe; demande d'asile fondée sur des motifs liés au sexe
 gender discrimination,discrimination sexuelle
-Gender GuidelinesNOTE Short title of the guidelines entitled Women Refugee Claimants Fearing Gender-Related Persecution - Update. ,Directives concernant la persécution fondée sur le sexeNOTA Titre abrégé des directives intitulées Revendicatrices du statut de réfugié craignant d'être persécutées en raison de leur sexe - Mise à jour. 
+Gender Guidelines NOTE: Short title of the guidelines entitled Women Refugee Claimants Fearing Gender-Related Persecution - Update. ,Directives concernant la persécution fondée sur le sexe NOTA: Titre abrégé des directives intitulées Revendicatrices du statut de réfugié craignant d'être persécutées en raison de leur sexe - Mise à jour. 
 gender-related issue,question liée au sexe; question liée à la crainte de persécution du fait du sexe
 gender-related persecution,persécution fondée sur le sexe; persécution fondée sur des motifs liés au sexe
 general clerk,commis général
@@ -686,7 +686,7 @@ generalized risk,risque généralisé
 generally known fact,fait notoire
 generally recognized fact,fait généralement reconnu
 genuine; bona fide,authentique; véritable
-geographic teamNOTE A group of members (and sometimes refugee protection officers) specialized by geographic area.,équipe géographiqueNOTA Groupe de commissaires (et parfois d'agents de protection des réfugiés) spécialisés par secteur géographique.
+geographic team NOTE: A group of members (and sometimes refugee protection officers) specialized by geographic area.,équipe géographique NOTA: Groupe de commissaires (et parfois d'agents de protection des réfugiés) spécialisés par secteur géographique.
 "give reasons why, to",énoncer les raisons pour lesquelles; en donner les motifs
 giving-and-taking ceremony (adoption),cérémonie de don et de prise en adoption; cérémonie du don et de l'acceptation
 "good faith, in",de bonne foi
@@ -703,25 +703,25 @@ guarantor,garant
 guerrilla,guérilléro
 guerrilla warfare,guérilla
 guidelines,directives
-Guidelines on Gender-Related PersecutionNOTE Short title of the guidelines entitled Women Refugee Claimants Fearing Gender-Related Persecution - Update. ,Directives concernant la persécution fondée sur le sexeNOTA Titre abrégé des directives intitulées Revendicatrices du statut de réfugié craignant d'être persécutées en raison de leur sexe - Mise à jour. 
+Guidelines on Gender-Related Persecution NOTE: Short title of the guidelines entitled Women Refugee Claimants Fearing Gender-Related Persecution - Update. ,Directives concernant la persécution fondée sur le sexe NOTA: Titre abrégé des directives intitulées Revendicatrices du statut de réfugié craignant d'être persécutées en raison de leur sexe - Mise à jour. 
 guiding principle,principe directeur
 "HIT (see Heads of Information Technology) ","CTI (voir Chefs de la technologie informatique) "
 "HRD (see Human Resources Directorate) ","DRH (voir Direction des ressources humaines) "
 "HRMC Plus (see Human Resources Management Committee Plus) ","CGRH Plus (voir Comité de gestion des ressources humaines Plus) "
 "HRMS (see Human Resources Management System) ","SGRH (voir Système de gestion des ressources humaines) "
-"HRNWP (see Human Rights Nexus Working Party) ","DGRHPP (voir Direction générale des ressources humaines et du perfectionnement professionnel)NOTA Fusion de la Direction des ressources humaines (DRH) et de la Direction générale du perfectionnement professionnel (DGPP). "
+"HRNWP (see Human Rights Nexus Working Party) ","DGRHPP (voir Direction générale des ressources humaines et du perfectionnement professionnel) NOTA: Fusion de la Direction des ressources humaines (DRH) et de la Direction générale du perfectionnement professionnel (DGPP). "
 "HRS (see Human Resources Systems) ","SRH (voir Systèmes des ressources humaines) "
 "HURIDOCS (see Human Rights Information and Documentation Systems, International) ","HURIDOCS (voir Systèmes d'information et de documentation sur les droits de l'homme, International) "
 habitual residence,résidence habituelle
 "hand, by",en mains propres; en personne
 harmonization of documentation project,projet d'harmonisation de la documentation
-head office; headquarters (of the IRB) ,"siège (de la CISR) NOTA Non pas « administration centrale », comme dans les ministères."
+head office; headquarters (of the IRB) ,"siège (de la CISR)  NOTA: Non pas « administration centrale », comme dans les ministères."
 Heads of Information Technology (HIT) ,Chefs de la technologie informatique (CTI) 
 Heads of Learning Forum,Forum des responsables de l'apprentissage
 health grounds,motifs sanitaires
 "hearing (overall process; of a claim for refugee protection, of an appeal)","audience (processus global); audition (d'une demande d'asile, d'un appel)"
 hearing completed,audience terminée
-hearing de novo; de novo hearingNOTE A completely new hearing.,nouvelle audience; audience de novoNOTA Audience complètement nouvelle.
+hearing de novo; de novo hearing NOTE: A completely new hearing.,nouvelle audience; audience de novo NOTA: Audience complètement nouvelle.
 hearing disposition record,relevé de décision
 Hearing Information Sheet,Fiche de renseignements sur l'audience
 hearing into a claim for refugee protection; refugee protection hearing,audition de la demande d'asile; audience sur la demande d'asile
@@ -747,21 +747,21 @@ holdings (of information),fonds de documentation; fonds de renseignements; fonds
 home country,pays d'origine
 host country,pays d'accueil
 humanitarian and compassionate considerations,motifs d'ordre humanitaire
-humanitarian and compassionate review,Direction générale des ressources humaines et du perfectionnement professionnel (DGRHPP)NOTA Fusion de la Direction des ressources humaines (DRH) et de la Direction générale du perfectionnement professionnel (DGPP). 
-Human Resources Directorate (HRD)NOTE Formerly part of the Corporate Services Branch (CSB); now part of the Human Resources and Professional Development Branch (HRPDB). ,Direction des ressources humaines (DRH)NOTA Relevait auparavant de la Direction générale des services de gestion (DGSG); relève maintenant de la Direction générale des ressources humaines et du perfectionnement professionnel (DGRHPP). 
+humanitarian and compassionate review,Direction générale des ressources humaines et du perfectionnement professionnel (DGRHPP) NOTA: Fusion de la Direction des ressources humaines (DRH) et de la Direction générale du perfectionnement professionnel (DGPP). 
+Human Resources Directorate (HRD) NOTE: Formerly part of the Corporate Services Branch (CSB); now part of the Human Resources and Professional Development Branch (HRPDB). ,Direction des ressources humaines (DRH) NOTA: Relevait auparavant de la Direction générale des services de gestion (DGSG); relève maintenant de la Direction générale des ressources humaines et du perfectionnement professionnel (DGRHPP). 
 Human Resources Management Committee Plus (HRMC Plus) ,Comité de gestion des ressources humaines Plus (CGRH Plus) 
 Human Resources Management System (HRMS) ,Système de gestion des ressources humaines (SGRH) 
-"Human Resources Systems (HRS)NOTE Formerly called ""Human Resources Information Systems"".",Systèmes des ressources humaines (SRH)NOTA Auparavant appelés « Systèmes d'information sur les ressources humaines ».
+"Human Resources Systems (HRS) NOTE: Formerly called ""Human Resources Information Systems"".",Systèmes des ressources humaines (SRH) NOTA: Auparavant appelés « Systèmes d'information sur les ressources humaines ».
 human rights,droits de la personne [Canada]; droits de l'homme [ ONU] ; droits humains 
 "Human Rights Information and Documentation Systems, International (HURIDOCS) ","Systèmes d'information et de documentation sur les droits de l'homme, International (HURIDOCS) "
 "Human Rights Information Package (see Contextual and Human Rights Packages) ","Dossiers d'information sur les droits de la personne (voir Documentation de fond et Dossiers d'information sur les droits de la personne) "
 Human Rights Internet,Internet des droits humains
-Human Rights Nexus Working Party (HRNWP)NOTE Part of the IARLJ. ,Groupe de travail sur les liens avec les droits de la personne (GTLDP)NOTA Relève de l' AIJAR. 
+Human Rights Nexus Working Party (HRNWP) NOTE: Part of the IARLJ. ,Groupe de travail sur les liens avec les droits de la personne (GTLDP) NOTA: Relève de l' AIJAR. 
 "Human Rights Package (see Contextual and Human Rights Packages) ","Dossiers d'information sur les droits de la personne (voir Documentation de fond et Dossiers d'information sur les droits de la personne) "
 human rights record,antécédents en matière de respect des droits de la personne; antécédents relatifs aux droits de la personne
 Human Rights Task Force [ UN] ,Groupe spécial chargé des droits de l'homme [ ONU] 
 human rights violation,violation des droits de la personne [Canada]; violation des droits de l'homme [ ONU] 
-Human Rights WatchNOTE An organization with headquarters in New York.,Human Rights WatchNOTA Organisme dont le siège est à New York.
+Human Rights Watch NOTE: An organization with headquarters in New York.,Human Rights Watch NOTA: Organisme dont le siège est à New York.
 human smuggler,passeur
 human smuggling; smuggling; people smuggling,passage de clandestins
 "IAB (see Immigration Appeal Board) ","CAI (voir Commission d'appel de l'immigration) "
@@ -802,13 +802,13 @@ Immigration and Refugee Protection Act (IRPA) ,Loi sur l'immigration et la prote
 Immigration and Refugee Protection Regulations (IRPR) ,Règlement sur l'immigration et la protection des réfugiés (RIPR) 
 immigration and refugee protection system; immigration and refugee system,système d'immigration et de protection des réfugiés
 immigration appeal,appel en matière d'immigration
-Immigration Appeal Board (IAB)NOTE Now called Immigration and Refugee Board of Canada (IRB) .,Commission d'appel de l'immigration (CAI)NOTA Maintenant appelée Commission de l'immigration et du statut de réfugié du Canada (CISR).
+Immigration Appeal Board (IAB) NOTE: Now called Immigration and Refugee Board of Canada (IRB) .,Commission d'appel de l'immigration (CAI) NOTA: Maintenant appelée Commission de l'immigration et du statut de réfugié du Canada (CISR).
 Immigration Appeal Division (IAD) ,Section d'appel de l'immigration (SAI) 
 Immigration Appeal Division Operations Committee,Comité des opérations de la Section d'appel de l'immigration
 Immigration Appeal Division Rules (IADR) ,Règles de la Section d'appel de l'immigration (RSAI) 
 immigration bar; immigration lawyer,avocat(s) spécialisé(s) en droit de l'immigration; avocat(s) spécialiste(s) de l'immigration 
 immigration case law,jurisprudence en matière d'immigration
-"Immigration Division (ID)NOTE Formerly called the ""Adjudication Division"".",Section de l'immigration (SI)NOTA Auparavant appelée « Section d'arbitrage ».
+"Immigration Division (ID) NOTE: Formerly called the ""Adjudication Division"".",Section de l'immigration (SI) NOTA: Auparavant appelée « Section d'arbitrage ».
 Immigration Division Rules (IDR) ,Règles de la Section de l'immigration (RSI) 
 immigration examination (by an immigration officer),interrogatoire relatif à l'immigration (de l'agent d'immigration)
 immigration lawyer; immigration bar,avocat(s) spécialisé(s) en droit de l'immigration; avocat(s)spécialiste(s) de l'immigration 
@@ -818,16 +818,16 @@ Improved Management Practices Office (IMPO) ,Bureau de l'amélioration des prati
 Improved Management Practices Working Group (IMPWG) ,Groupe de travail sur l'amélioration des pratiques de gestion (GTAPG) 
 imputed political opinion; perceived political opinion,opinions politiques imputées; opinions politiques présumées
 in absentia(in the absence of the person who is the subject of the proceeding),in absentia; par contumace (en l'absence de la personne en cause)
-in briefNOTE A Legal Services internal publication.,en bref
-inadmissibility,interdiction de territoireNOTA Appelée « non-admissibilité » sous le régime de la Loi sur l'immigration. 
+in brief NOTE: A Legal Services internal publication.,en bref
+inadmissibility,interdiction de territoire NOTA: Appelée « non-admissibilité » sous le régime de la Loi sur l'immigration. 
 "inadmissibility, to constitute; lead to a determination of inadmissibility, to; determination of inadmissibility",emporter interdiction de territoire; constat d'interdiction de territoire
 inadmissibility report,rapport d'interdiction de territoire
 inadmissible class,catégorie des personnes interdites de territoire
 "inadmissible for misrepresentation, to be",emporter interdiction de territoire pour fausses déclarations
 inadmissible person,personne interdite de territoire
-in-camera hearingNOTE Now called private hearing under IRPA. ,audience à huis clos
+in-camera hearing NOTE: Now called private hearing under IRPA. ,audience à huis clos
 in-chambers hearing,audience en cabinet
-"incompetentNOTE Person who is unable, in the opinion of the member or of the Refugee Protection Division, to appreciate the nature of the proceeding.","incapableNOTA Toute personne qui, selon le commissaire ou la Section de la protection des réfugiés, n'est pas en mesure de comprendre la nature de la procédure."
+"incompetent NOTE: Person who is unable, in the opinion of the member or of the Refugee Protection Division, to appreciate the nature of the proceeding.","incapable NOTA: Toute personne qui, selon le commissaire ou la Section de la protection des réfugiés, n'est pas en mesure de comprendre la nature de la procédure."
 independent judiciary,pouvoir judiciaire indépendant
 indictable offence,infraction punissable
 "indictment, by way of; indictment, on conviction on; conviction on indictment, on",par mise en accusation
@@ -849,7 +849,7 @@ informed decision; sound decision; well-reasoned decision,décision éclairée; 
 "infringe, to; breach, to; contravene, to",enfreindre; violer; contrevenir
 "initiative, to act on its own (with reference to a division of the Immigration and Refugee Board of Canada)",agir de sa propre initiative (en parlant d'une section de la Commission de l'immigration et du statut de réfugié du Canada)
 "input; intake [number of claims for refugee protection referred (RPD), number of appeals filed (IAD)] ",nombre de demandes d'asile déférées (SPR) ; nombre d'appels interjetés (SAI) 
-inquiryNOTE Now called admissibility hearing under IRPA. ,enquête
+inquiry NOTE: Now called admissibility hearing under IRPA. ,enquête
 institutional hearing,audience en établissement
 "instruct counsel, to",mandater un conseil
 "intake; input [number of claims for refugee protection referred (RPD), number of appeals filed (IAD)] ",nombre de demandes d'asile déférées (SPR) ; nombre d'appels interjetés (SAI) 
@@ -864,7 +864,7 @@ interim stay,suspension provisoire
 interlocutory decision,décision interlocutoire
 interlocutory matter,question interlocutoire
 internal flight alternative (IFA) ,possibilité de refuge intérieur (PRI) 
-Internal Flight Alternative Working PartyNOTE Part of the IARLJ. ,Groupe de travail sur la possibilité de refuge intérieurNOTA Relève de l' AIJAR
+Internal Flight Alternative Working Party NOTE: Part of the IARLJ. ,Groupe de travail sur la possibilité de refuge intérieur NOTA: Relève de l' AIJAR
 International Association of Refugee Law Judges (IARLJ) ,Association internationale des juges aux affaires des réfugiés (AIJAR) 
 International Covenant on Civil and Political Rights (ICCPR) [ UN] ,Pacte international relatif aux droits civils et politiques (PIRDCP) [ ONU] 
 international law,droit international
@@ -873,7 +873,7 @@ international legal obligation,obligation en droit international
 International Media Database (IMD) ,Base de données des médias internationaux (BDMI) 
 International Media Review (IMR) ,Revue de presse internationale (RPI) 
 international refugee law,droit international des réfugiés
-Interpretation of the Convention Refugee Definition in the Case LawNOTE A Legal Services document updated once a year.,La jurisprudence sur la définition de réfugié au sens de la ConventionNOTA Document des Services juridiques mis à jour tous les ans.
+Interpretation of the Convention Refugee Definition in the Case Law NOTE: A Legal Services document updated once a year.,La jurisprudence sur la définition de réfugié au sens de la Convention NOTA: Document des Services juridiques mis à jour tous les ans.
 interpreter,interprète
 Interpreter Handbook,Guide de l'interprète
 Interpreter Payment System (IPS) ,Système de paiement des interprètes (SPI) 
@@ -904,7 +904,7 @@ joining (claims for refugee protection); joint claims ,jonction (de demandes d'a
 joint admissibility hearing,enquête conjointe
 Joint Career Transition Committee (JCTC) ,Comité conjoint de transition de carrière (CCTC) 
 joint claims; joining (claims for refugee protection),demandes d'asile conjointes; jonction (de demandes d'asile)
-joint hearingNOTE Used to hear the claims for refugee protection of all members of a family at a single hearing.,audience conjointeNOTA Tenue lorsque les demandes d'asile de tous les membres d'une famille sont entendues à une seule audience.
+joint hearing NOTE: Used to hear the claims for refugee protection of all members of a family at a single hearing.,audience conjointe NOTA: Tenue lorsque les demandes d'asile de tous les membres d'une famille sont entendues à une seule audience.
 Joint Occupational Safety and Health Committee (JOSH) ,Comité conjoint de santé et de sécurité au travail (CCSST) 
 "judicially noticed, to be",être admis d'office en justice
 judicial notice (of an obvious fact),admission d'office (d'un fait évident)
@@ -939,7 +939,7 @@ leading question,question suggestive; question tendancieuse
 "lead to a determination of inadmissibility, to; inadmissibility, to constitute; determination of inadmissibility",emporter interdiction de territoire; constat d'interdiction de territoire
 Learning and Professional Development Directorate (LPDD) ,Direction de l'apprentissage et du perfectionnement professionnel (DAPP) 
 Learning Centre,Centre d'apprentissage
-Leave Reporting System (LRS)NOTE A Personnel computer system.,Système de rapports sur les congés (SRC)NOTA Système informatique du Personnel.
+Leave Reporting System (LRS) NOTE: A Personnel computer system.,Système de rapports sur les congés (SRC) NOTA: Système informatique du Personnel.
 leave to appeal,autorisation d'appel; autorisation d'en appeler; autorisation d'interjeter appel
 leave to vacate,autorisation de présenter une demande d'annulation
 legal adviser (LA) ,conseiller juridique (CJ) 
@@ -951,8 +951,8 @@ legal protection,protection juridique
 Legal Services (Branch) (of the IRB) ,Services juridiques (de la CISR) ; Direction générale des services juridiques 
 Legal Update; Jurisprudence Update,jurimeeting; mise à jour de la jurisprudence
 legislative framework,loi-cadre
-LexChangeNOTE A case management bulletin published by the Toronto regional office of the IRB. ,LexChangeNOTA Bulletin sur la gestion des cas publié par le bureau régional de Toronto de la CISR. 
-LexChange WestNOTE A case management bulletin published by the Pacific regional office of the IRB. ,LexChange - côte ouestNOTA Bulletin sur la gestion des cas publié par le bureau régional du Pacifique de la CISR. 
+LexChange NOTE: A case management bulletin published by the Toronto regional office of the IRB. ,LexChange NOTA: Bulletin sur la gestion des cas publié par le bureau régional de Toronto de la CISR. 
+LexChange West NOTE: A case management bulletin published by the Pacific regional office of the IRB. ,LexChange - côte ouest NOTA: Bulletin sur la gestion des cas publié par le bureau régional du Pacifique de la CISR. 
 Linguistic Services Directorate,Direction des services linguistiques
 linked claims for refugee protection; related claims for refugee protection,demandes d'asile liées
 Local Purchase Order (LPO) ,commande d'achat local
@@ -985,7 +985,7 @@ Member Applicant System (MAS) ,Système de suivi des candidatures aux postes de 
 member complement,effectif des commissaires
 member manager,commissaire gestionnaire
 member performance appraisal,évaluation du rendement des commissaires
-Membership in a Particular Social Group Working Party (MPSGWP)NOTE  Part of the IARLJ. ,Groupe de travail sur l'appartenance à un groupe social (GTAGS)NOTA  Relève de l' AIJAR. 
+Membership in a Particular Social Group Working Party (MPSGWP) NOTE:  Part of the IARLJ. ,Groupe de travail sur l'appartenance à un groupe social (GTAGS) NOTA:  Relève de l' AIJAR. 
 member-year,année-commissaire
 memorandum of fact and law,exposé des faits et du droit
 mere possibility (of persecution),simple possibilité (de persécution)
@@ -1003,7 +1003,7 @@ Minister's information,renseignements ministériels
 Minister's intervention; intervention by the Minister,intervention ministérielle; intervention du ministre
 Minister's opinion,avis du ministre
 Minister's permit,permis ministériel
-minorNOTE  Person under the age of 18 years.,mineurNOTA  Personne qui est âgée de moins de 18 ans.
+minor NOTE:  Person under the age of 18 years.,mineur NOTA:  Personne qui est âgée de moins de 18 ans.
 misrepresentation; false statement,présentation erronée; fausse déclaration
 mitigating circumstance,circonstance atténuante
 model office (in the context of ICMS) ,fonction de modélisation (dans le cadre du SGCI) 
@@ -1062,7 +1062,7 @@ nexus,lien
 no credibility,absence de crédibilité
 no credible basis,absence de minimum de fondement
 no jurisdiction letter,lettre pour défaut de compétence
-"non-adjudicative manner, in aNOTE  With respect to the Alternative Dispute Resolution Process (ADRP). ",sans l'intervention des tribunauxNOTA  En parlant du mode alternatif de règlement des litiges (MARL). 
+"non-adjudicative manner, in a NOTE:  With respect to the Alternative Dispute Resolution Process (ADRP). ",sans l'intervention des tribunaux NOTA:  En parlant du mode alternatif de règlement des litiges (MARL). 
 non-adversarial hearing,audience de nature non contradictoire; audience de nature non accusatoire
 non-adversarial proceeding,procédure de type non contradictoire; procédure de type non accusatoire
 non-compliance; breach (n.) ; failure to comply ,"non-respect (des conditions); inobservation (d'une obligation); infraction (à une règle, à une loi); manquement (à une obligation, à un engagement, à la justice, à la loi, à un règlement, à une règle); violation (de la loi)"
@@ -1072,7 +1072,7 @@ non-immigrant,non-immigrant (n.)
 non-lawyer; non-legal counsel; lay counsel,non-juriste (n.) ; conseil non juriste 
 non-permanent resident,non-résident permanent
 non-political crime; common crime; ordinary law crime,crime de droit commun
-Non-State Agents of Persecution Working PartyNOTE  Part of the IARLJ. ,Groupe de travail sur les agents de persécution ne relevant pas de l'ÉtatNOTA  Relève de l' AIJAR. 
+Non-State Agents of Persecution Working Party NOTE:  Part of the IARLJ. ,Groupe de travail sur les agents de persécution ne relevant pas de l'État NOTA:  Relève de l' AIJAR. 
 no-PIF abandonment hearing (PABA) ,audience sur le désistement pour défaut de présenter le FRP
 "no right to appeal; appealed, may not be",être sans appel; non susceptible d'appel
 no show; failure to appear (at a hearing or admissibility hearing),défaut de comparution; défaut de comparaître; manquement à l'obligation de se présenter; omission de se présenter; défaut de se présenter (à une audience ou à une enquête)
@@ -1097,7 +1097,7 @@ null and void decision,décision nulle et de nul effet
 oath of office,serment professionnel
 "oath of office, to swear the",prêter le serment professionnel
 Oath or Solemn Affirmation of Office Rules (Immigration and Refugee Board of Canada),Règles sur le serment professionnel ou la déclaration (Commission de l'immigration et du statut de réfugié du Canada)
-obiter comment; obiter dictumNOTE  The part of the reasons for decision that is not directly related to the issues that have to be decided.,remarque incidente; opinion incidente; obiter dictumNOTA  La partie des motifs de décision qui ne concerne pas directement les questions qui doivent être tranchées.
+obiter comment; obiter dictum NOTE:  The part of the reasons for decision that is not directly related to the issues that have to be decided.,remarque incidente; opinion incidente; obiter dictum NOTA:  La partie des motifs de décision qui ne concerne pas directement les questions qui doivent être tranchées.
 objective element,élément objectif
 Office of the Privacy Commissioner,Commissariat à la protection de la vie privée
 Office of the United Nations High Commissioner for Refugees (UNHCR) ,Haut Commissariat des Nations Unies pour les réfugiés (HCR) 
@@ -1106,7 +1106,7 @@ one-child policy (China),politique de l'enfant unique (Chine)
 On-line Research and Electronic Networks,Recherches en ligne et réseaux électroniques
 onus of proof; burden of proof,charge de la preuve; fardeau de la preuve
 Operational Monitoring Report,Rapport sur le suivi opérationnel
-"Operations Branch (OB)NOTE  Formerly called Policy, Planning and Research Branch (PPR or PPRB). ","Direction générale des opérations (DGO)NOTA  Auparavant appelée Direction générale des politiques, de la planification et des recherches (DGPPR ou PPR). "
+"Operations Branch (OB) NOTE:  Formerly called Policy, Planning and Research Branch (PPR or PPRB). ","Direction générale des opérations (DGO) NOTA:  Auparavant appelée Direction générale des politiques, de la planification et des recherches (DGPPR ou PPR). "
 Operations Committee,Comité des opérations
 opinion evidence,témoignage d'opinion; preuve fondée sur un avis
 opportunity to be heard,possibilité de se faire entendre
@@ -1144,14 +1144,14 @@ overbooking,surcharge du rôle
 "PBC (see Planning and Budgeting Committee) ","CPB (voir Comité de planification et de budgétisation) "
 "PC (see person concerned) ",intéressé
 "PCA (see Priorities Coordination Agreement) ","ECP (voir Entente sur la coordination des priorités) "
-"PDB (see Professional Development Branch)NOTE  Now called Human Resources and Professional Development Branch (HRPDB) .","DGPP (voir Direction générale du perfectionnement professionnel)NOTA  Maintenant appelée Direction générale des ressources humaines et du perfectionnement professionnel (DGRHPP) ."
+"PDB (see Professional Development Branch) NOTE:  Now called Human Resources and Professional Development Branch (HRPDB) .","DGPP (voir Direction générale du perfectionnement professionnel) NOTA:  Maintenant appelée Direction générale des ressources humaines et du perfectionnement professionnel (DGRHPP) ."
 "PDC (see Professional Development Committee) ","CPP (voir Comité de perfectionnement professionnel) "
 "PHSC (see Policy Health and Safety Committee) ","COSS (voir Comité d'orientation en matière de santé et de sécurité) "
 "PIA (see Privacy Impact Assessment) ","EFVP (voir évaluation des facteurs relatifs à la vie privée) "
 "PIF (see Personal Information Form) ","FRP (voir Formulaire de renseignements personnels) "
 "PLC (see Personal Learning Contract) ","CAP (voir contrat d'apprentissage personnel) "
 "POE (see port of entry) ","PDE (voir point d'entrée) "
-"PPRorPPRB (see Policy, Planning and Research Branch)NOTE  Now called Operations Branch .","DGPPRouPPR (voir Direction générale des politiques, de la planification et des recherches)NOTA  Maintenant appelée Direction générale des opérations (DGO) ."
+"PPRorPPRB (see Policy, Planning and Research Branch) NOTE:  Now called Operations Branch .","DGPPRouPPR (voir Direction générale des politiques, de la planification et des recherches) NOTA:  Maintenant appelée Direction générale des opérations (DGO) ."
 "PRAS (see Planning, Reporting and Accountability Structure) ","SPRR (voir structure de planification, de rapport et de responsabilisation) "
 "PRC (see Performance Review Committee) ","CER (voir Comité d'examen du rendement) "
 "PRRA (see pre-removal risk assessment) ","ERAR (voir examen des risques avant renvoi) "
@@ -1197,7 +1197,7 @@ person in need of protection,personne à protéger
 person of concern to the UNHCR,personne relevant de la compétence du HCR
 person on whom refugee protection is conferred,personne à qui l'asile est conféré
 person summoned,personne citée à comparaître
-person who claims refugee protection; refugee claimant; refugee protection claimant; claimant,personne qui demande l'asile; demandeur(e) d'asileNOTA  Auparavant appelé « revendicateur ».
+person who claims refugee protection; refugee claimant; refugee protection claimant; claimant,personne qui demande l'asile; demandeur(e) d'asile NOTA:  Auparavant appelé « revendicateur ».
 person who is determined to be a Convention refugee,personne ayant la qualité de réfugié au sens de la Convention
 persuasive decision,décision à caractère persuasif
 persuasive value,force persuasive
@@ -1208,7 +1208,7 @@ Planning and Budgeting Committee (PBC) ,Comité de planification et de budgétis
 Policy Committee,Comité d'orientation
 Policy Health and Safety Committee (PHSC) ,Comité d'orientation en matière de santé et de sécurité (COSS) 
 "Policy on the completeness, accuracy and authority of IRB financial transactions and related information ",Politique sur l'intégralité et l'exactitude de l'information financière de la CISR ainsi que sur les pouvoirs qui y sont reliés 
-"Policy, Planning and Research Branch (PPRorPPRB)NOTE  Now called Operations Branch .","Direction générale des politiques, de la planification et des recherches (DGPPRouPPR)NOTA  Maintenant appelée Direction générale des opérations (DGO) ."
+"Policy, Planning and Research Branch (PPRorPPRB) NOTE:  Now called Operations Branch .","Direction générale des politiques, de la planification et des recherches (DGPPRouPPR) NOTA:  Maintenant appelée Direction générale des opérations (DGO) ."
 political opinion,opinions politiques
 portfolio partner,partenaire de portefeuille
 port of entry (POE) ,point d'entrée (PDE) 
@@ -1223,8 +1223,8 @@ preferred practice (for detention reviews),pratique privilégiée (en matière d
 pre-hearing conference,conférence préparatoire (à l'audience)
 preliminary conference,conférence préliminaire
 preliminary issue; preliminary matter,question préliminaire
-Preparation and Conduct of a Hearing in the Refugee Protection DivisionNOTE  Chairperson's guidelines.,Directives concernant la préparation et la tenue des audiences à la Section de la protection des réfugiésNOTA  Directives du président.
-pre-removal risk assessment (PRRA) ,examen des risques avant renvoi (ERAR)NOTA  Auparavant appelé « évaluation du risque avant le renvoi » sous le régime de la Loi sur l'immigration. 
+Preparation and Conduct of a Hearing in the Refugee Protection Division NOTE:  Chairperson's guidelines.,Directives concernant la préparation et la tenue des audiences à la Section de la protection des réfugiés NOTA:  Directives du président.
+pre-removal risk assessment (PRRA) ,examen des risques avant renvoi (ERAR) NOTA:  Auparavant appelé « évaluation du risque avant le renvoi » sous le régime de la Loi sur l'immigration. 
 "presentation of evidence; production of evidence; evidence, to present; evidence, to produce",présentation de la preuve; présenter des éléments de preuve; produire des éléments de preuve
 present at the hearing,présent à l'audience
 presiding member,président de l'audience
@@ -1244,7 +1244,7 @@ priority processing,traitement prioritaire
 Privacy Act,Loi sur la protection des renseignements personnels
 privacy commissioner,commissaire à la protection de la vie privée
 Privacy Impact Assessment (PIA) ,évaluation des facteurs relatifs à la vie privée (EFVP) 
-"private hearing; closed hearingNOTE  A hearing that is closed to the public. Formerly called ""in-camera hearing"" under the Immigration Act. ",audience à huis closNOTA  Audience tenue sans la présence du public.
+"private hearing; closed hearing NOTE:  A hearing that is closed to the public. Formerly called ""in-camera hearing"" under the Immigration Act. ",audience à huis clos NOTA:  Audience tenue sans la présence du public.
 probative value,valeur probante
 procedural fairness,équité procédurale
 procedural issue,question relative à la procédure; question de procédure
@@ -1259,7 +1259,7 @@ processing time,délai de traitement
 process mapping,établissement de la séquence des opérations
 "production of evidence; presentation of evidence; evidence, to present; evidence, to produce",présentation de la preuve; présenter des éléments de preuve; produire des éléments de preuve
 professional conduct,éthique professionnelle
-Professional Development Branch (PDB)NOTE  Now called Human Resources and Professional Development Branch (HRPDB) .,Direction générale du perfectionnement professionnel (DGPP)NOTA  Maintenant appelée Direction générale des ressources humaines et du perfectionnement professionnel (DGRHPP) .
+Professional Development Branch (PDB) NOTE:  Now called Human Resources and Professional Development Branch (HRPDB) .,Direction générale du perfectionnement professionnel (DGPP) NOTA:  Maintenant appelée Direction générale des ressources humaines et du perfectionnement professionnel (DGRHPP) .
 Professional Development Committee (PDC) ,Comité de perfectionnement professionnel (CPP) 
 profile of persons at risk,profil des personnes à risque
 Profiling System,système d'établissement du profil
@@ -1268,8 +1268,8 @@ protected person,personne protégée
 protection elsewhere,protection ailleurs
 Protocol for Dealing with Unrepresented Appellants at the Appeal Division,Protocole relatif au traitement des appelants non représentés devant la Section d'appel
 Protocol for High Profile Cases,Protocole sur les cas très médiatisés
-Providing the PIF and No PIF Abandonment in the Refugee Protection Division NOTE  Chairperson's guidelines.,Directives concernant la transmission du FRP et le désistement pour défaut de transmission du FRP à la Section de la protection des réfugiés NOTA  Directives du président.
-Public and Parliamentary Affairs DirectorateNOTE  Now called Communications Directorate .,Direction des affaires publiques et parlementairesNOTA  Maintenant appelée Direction des communications .
+Providing the PIF and No PIF Abandonment in the Refugee Protection Division  NOTE:  Chairperson's guidelines.,Directives concernant la transmission du FRP et le désistement pour défaut de transmission du FRP à la Section de la protection des réfugiés  NOTA:  Directives du président.
+Public and Parliamentary Affairs Directorate NOTE:  Now called Communications Directorate .,Direction des affaires publiques et parlementaires NOTA:  Maintenant appelée Direction des communications .
 publication ban,interdiction de publication; interdiction de publier
 publication restriction,restriction de publier
 public danger certificate,attestation de danger pour le public
@@ -1286,7 +1286,7 @@ questioning technique,technique d'interrogatoire
 question of fact,question de fait
 question of law,question de droit
 question of mixed law and fact,"question de droit, de fait ou mixte"
-"RCO (see refugee claim officer)NOTE  Now called refugee protection officer (RPO) under the Refugee Protection Division Rules. ","ACR (voir agent chargé de la revendication)NOTA  Maintenant appelé agent de protection des réfugiés (APR) sous le régime des Règles de la Section de la protection des réfugiés. "
+"RCO (see refugee claim officer) NOTE:  Now called refugee protection officer (RPO) under the Refugee Protection Division Rules. ","ACR (voir agent chargé de la revendication) NOTA:  Maintenant appelé agent de protection des réfugiés (APR) sous le régime des Règles de la Section de la protection des réfugiés. "
 "RDIMS (see Records, Documents and Information Management System) ","SGDDR (voir Système de gestion des dossiers, des documents et des renseignements) "
 "RDM (see reviewing decision-maker) ","DCE (voir décideur chargé de l'examen) "
 "REC (see Regional Executive Committee) ","CRD (voir Comité régional de direction) "
@@ -1318,7 +1318,7 @@ RPO Unit ,Section des APR
 "RSO (see Regional Security Officer) ","ASR (voir agent de sécurité régional) "
 "RTL (see risk to life) ",menace à la vie
 "RTP (see refugee travel paper) ",titre de voyage du réfugié
-ratio decidendiNOTE  The part of the reasons for decision that is directly related to the issues that have to be decided.,ratio decidendiNOTA  La partie des motifs de décision qui concerne directement les questions qui doivent être tranchées.
+ratio decidendi NOTE:  The part of the reasons for decision that is directly related to the issues that have to be decided.,ratio decidendi NOTA:  La partie des motifs de décision qui concerne directement les questions qui doivent être tranchées.
 real and substantial risk,risque sérieux
 re-appointment,renouvellement de mandat; reconduction de mandat
 reasonable apprehension of bias,crainte raisonnable de partialité
@@ -1326,7 +1326,7 @@ reasonable chance (of persecution),possibilité raisonnable (d'être persécuté
 reasonable effort,effort raisonnable; effort valable
 reasons completed; completed reasons,motifs rédigés
 reasons for continued detention,motifs justifiant le maintien en détention
-reasons for decisionNOTE  The panel's explanation for the decision.,motifs de décisionNOTA  Raisons sur lesquelles une décision est fondée.
+reasons for decision NOTE:  The panel's explanation for the decision.,motifs de décision NOTA:  Raisons sur lesquelles une décision est fondée.
 reasons for refusal,motifs du refus
 reasons pending in an appeal,appel en attente de motifs
 "rebut, to (evidence, a presumption)","réfuter (un élément de preuve, une présomption)"
@@ -1349,9 +1349,9 @@ referral (of a matter; of a claim),renvoi (d'une affaire); saisie (d'une demande
 RefLex,RéfLex
 Reform and Strategic Directions Branch (RSDB) ,"Direction générale, Réforme et orientation stratégique (DGROS) "
 refugee advocacy group,groupe de défense des réfugiés
-refugee claimant; refugee protection claimant; person who claims refugee protection; claimant,demandeur(e) d'asile; personne qui demande l'asileNOTA  Auparavant appelé « revendicateur ».
-refugee claim officer (RCO)NOTE  Now called refugee protection officer (RPO) under the Refugee Protection Division Rules. ,agent chargé de la revendication (ACR)NOTA  Maintenant appelé agent de protection des réfugiés (APR) sous le régime des Règles de la Section de la protection des réfugiés. 
-"Refugee ConventionNOTE  Means the United Nations Convention Relating to the Status of Refugees, signed at Geneva on July 28, 1951, and the Protocol to that Convention, signed at New York on January 31, 1967.","Convention sur les réfugiésNOTA  Signifie la Convention des Nations Unies relative au statut des réfugiés, signée à Genève le 28 juillet 1951, et le protocole afférent, signé à New York le 31 janvier 1967."
+refugee claimant; refugee protection claimant; person who claims refugee protection; claimant,demandeur(e) d'asile; personne qui demande l'asile NOTA:  Auparavant appelé « revendicateur ».
+refugee claim officer (RCO) NOTE:  Now called refugee protection officer (RPO) under the Refugee Protection Division Rules. ,agent chargé de la revendication (ACR) NOTA:  Maintenant appelé agent de protection des réfugiés (APR) sous le régime des Règles de la Section de la protection des réfugiés. 
+"Refugee Convention NOTE:  Means the United Nations Convention Relating to the Status of Refugees, signed at Geneva on July 28, 1951, and the Protocol to that Convention, signed at New York on January 31, 1967.","Convention sur les réfugiés NOTA:  Signifie la Convention des Nations Unies relative au statut des réfugiés, signée à Genève le 28 juillet 1951, et le protocole afférent, signé à New York le 31 janvier 1967."
 refugee determination process,processus d'octroi de l'asile
 refugee determination system; refugee protection determination system,système d'octroi de l'asile
 refugee hearing,audience concernant le statut de réfugié
@@ -1361,16 +1361,16 @@ Refugee Lawyers Association,Refugee Lawyers Association
 refugee movement,mouvement de réfugiés
 refugee program,programme pour les réfugiés
 refugee protection,asile; protection des réfugiés
-refugee protection claim; claim for refugee protection,demande d'asileNOTA  Auparavant appelée « revendication » sous le régime de la Loi sur l'immigration. 
-refugee protection claimant; person who claims refugee protection; claimant; refugee claimant,demandeur(e) d'asile; personne qui demande l'asileNOTA  Auparavant appelé « revendicateur ».
+refugee protection claim; claim for refugee protection,demande d'asile NOTA:  Auparavant appelée « revendication » sous le régime de la Loi sur l'immigration. 
+refugee protection claimant; person who claims refugee protection; claimant; refugee claimant,demandeur(e) d'asile; personne qui demande l'asile NOTA:  Auparavant appelé « revendicateur ».
 Refugee Protection Claim Process - An Overview,Demande d'asile - Aperçu du processus
-"refugee protection clerk (RPC)NOTE  Formerly called ""refugee claim clerk"".",commis à la protection des réfugiés (CPR)NOTA  Auparavant appelé « commis chargé de la revendication ».
+"refugee protection clerk (RPC) NOTE:  Formerly called ""refugee claim clerk"".",commis à la protection des réfugiés (CPR) NOTA:  Auparavant appelé « commis chargé de la revendication ».
 refugee protection determination,processus d'octroi de l'asile
 refugee protection determination system; refugee determination system,système d'octroi de l'asile
-"Refugee Protection Division (RPD)NOTE  Formerly called the ""Convention Refugee Determination Division (CRDD)"". ",Section de la protection des réfugiés (SPR)NOTA  Auparavant appelée « Section du statut de réfugié (SSR) ». 
+"Refugee Protection Division (RPD) NOTE:  Formerly called the ""Convention Refugee Determination Division (CRDD)"". ",Section de la protection des réfugiés (SPR) NOTA:  Auparavant appelée « Section du statut de réfugié (SSR) ». 
 Refugee Protection Division Rules (RPDR) ,Règles de la Section de la protection des réfugiés (RSPR) 
 refugee protection hearing; hearing into a claim for refugee protection,audience sur la demande d'asile; audition de la demande d'asile
-"refugee protection officer (RPO)NOTE  Formerly called ""refugee claim officer"".",agent de protection des réfugiés (APR)NOTA  Auparavant appelé « agent chargé de la revendication ».
+"refugee protection officer (RPO) NOTE:  Formerly called ""refugee claim officer"".",agent de protection des réfugiés (APR) NOTA:  Auparavant appelé « agent chargé de la revendication ».
 refugee protection process,processus d'asile; processus de protection des réfugiés
 refugee protection system,système de protection des réfugiés
 refugee status,statut de réfugié
@@ -1501,12 +1501,12 @@ Safe Third Country Agreement,Entente sur les tiers pays sûrs
 Salary Management System (SMS) ,Système de gestion des salaires (SGS) 
 same sex relationship,relation homosexuelle
 sanitized reasons,motifs (de décision) épurés
-schedule (n.) ,rôle (contexte juridique); calendrier; échéancier (d'une affaire); programme; horaire (sens général)NOTA  À éviter : cédule (anglicisme).
+schedule (n.) ,rôle (contexte juridique); calendrier; échéancier (d'une affaire); programme; horaire (sens général) NOTA:  À éviter : cédule (anglicisme).
 "schedule, to","établir le rôle; mettre au rôle; fixer une date (p. ex., la date d'une réunion); établir un horaire; établir un programme "
 "schedule a case, to",mettre un cas au rôle
 scheduled detention review,contrôle des motifs de détention prévu
 scheduling,mise au rôle; établissement du rôle
-Scheduling and Changing the Date or Time of a Proceeding in the Refugee Protection DivisionNOTE  Chairperson's guidelines.,Mise au rôle et changement de la date ou de l'heure d'une procédure à la Section de la protection des réfugiésNOTA  Directives du président.
+Scheduling and Changing the Date or Time of a Proceeding in the Refugee Protection Division NOTE:  Chairperson's guidelines.,Mise au rôle et changement de la date ou de l'heure d'une procédure à la Section de la protection des réfugiés NOTA:  Directives du président.
 scheduling and interpreters clerk,commis au rôle et aux services d'interprétation
 Scheduling and Interpreters Unit,Section du rôle et des services d'interprétation
 scheduling clerk,commis au rôle
@@ -1517,8 +1517,8 @@ screened-in refugee (by the host country),réfugié sélectionné (par le pays h
 screened-out refugee (by the host country),réfugié non sélectionné (par le pays hôte)
 screening (of a claim for refugee protection),examen initial (d'une demande d'asile)
 "screen out, to (a case); dismiss, to (an appeal, an application for judicial review); reject, to (a claim)","rejeter (une demande d'asile; une demande de contrôle judiciaire, un appel; un cas)"
-secondary evidence of a documentNOTE  Evidence of the content of a document other than the original document itself.,preuve secondaire d'un documentNOTA  Preuve du contenu d'un document autrement que par la production du document original.
-Secretariat ServicesNOTE  Now calledGIC (Governor in Council) Secretariat Services Directorate . Formerly part of the Communications and Executive Services Branch; now reports directly to the Chairperson's office.,Services de secrétariatNOTA  Maintenant appelés Direction des services de secrétariat pour les PND (personnes nommées par décret) . Relevaient auparant de la Direction générale des Communications et des services à la haute direction; relèvent maintenant du bureau du président.
+secondary evidence of a document NOTE:  Evidence of the content of a document other than the original document itself.,preuve secondaire d'un document NOTA:  Preuve du contenu d'un document autrement que par la production du document original.
+Secretariat Services NOTE:  Now called GIC (Governor in Council) Secretariat Services Directorate. Formerly part of the Communications and Executive Services Branch; now reports directly to the Chairperson's office.,Services de secrétariat NOTA:  Maintenant appelés Direction des services de secrétariat pour les PND (personnes nommées par décret) . Relevaient auparant de la Direction générale des Communications et des services à la haute direction; relèvent maintenant du bureau du président.
 security certificate,certificat de sécurité
 security deposit,garantie
 security deposited,garantie fournie
@@ -1527,7 +1527,7 @@ security threat,menace pour la sécurité (publique)
 Security Tracking System (STS) ,Système de suivi de la sécurité (SSS) 
 "seek entry into Canada, to; seek to come to Canada, to; seek to enter Canada, to (to establish permanent residence)",demander l'entrée au Canada; chercher à entrer au Canada (pour s'y établir en permanence)
 seized member,commissaire saisi
-seized panelNOTE  A panel is considered seized with a case when the panel has started hearing the case and has received substantive evidence.,tribunal saisiNOTA  Un tribunal n'est considéré saisi du cas que lorsqu'il a commencé à entendre le cas et qu'il a reçu des éléments de preuve de fond.
+seized panel NOTE:  A panel is considered seized with a case when the panel has started hearing the case and has received substantive evidence.,tribunal saisi NOTA:  Un tribunal n'est considéré saisi du cas que lorsqu'il a commencé à entendre le cas et qu'il a reçu des éléments de preuve de fond.
 self-serving evidence,preuve intéressée
 seminal decision,arrêt de principe
 Senior Executive Network (SEN) ,Réseau d'information des cadres supérieurs (RICS) 
@@ -1549,7 +1549,7 @@ seven-day review,contrôle des sept jours
 short hearing,audience courte; audition courte
 "show cause, to",justifier; exposer des motifs; faire valoir des moyens; exposer les moyens
 show cause hearing,audience de justification
-silent political opinionNOTE  In contrast to a political opinion expressed publicly.,opinions politiques silencieusesNOTA  Par opposition aux opinions politiques exprimées publiquement.
+silent political opinion NOTE:  In contrast to a political opinion expressed publicly.,opinions politiques silencieuses NOTA:  Par opposition aux opinions politiques exprimées publiquement.
 similar questions of fact; similar questions of fact or law; similar questions of law or fact,questions de fait semblables; questions similaires de droit ou de fait
 simple claim; expeditive claim,demande d'asile à traiter suivant le processus accéléré
 sine die,indéfiniment; sine die
@@ -1572,7 +1572,7 @@ specialized tribunal; expert adjudication body; expert tribunal,tribunal spécia
 special relief,mesure spéciale; redressement spécial
 special source information,renseignements de source spéciale
 specific case,cas d'espèce
-specific informationNOTE  Information other than general information or Minister's information.,renseignements précisNOTA  Tout renseignement autre que des renseignements généraux ou des renseignements ministériels.
+specific information NOTE: Information other than general information or Minister's information.,renseignements précis NOTA:  Tout renseignement autre que des renseignements généraux ou des renseignements ministériels.
 "split, to (claims for refugee protection)",diviser (des demandes d'asile)
 sponsor,répondant
 sponsored applicant,demandeur parrainé
@@ -1589,7 +1589,7 @@ standard of interpretation,norme d'interprétation
 standard of proof,norme de preuve
 Standing Committee on Citizenship and Immigration,Comité permanent de la citoyenneté et de l'immigration
 Standing Committee on the Regulations and Rules,Comité permanent du règlement et des règles
-stare decisisNOTE  The principle of reliance on decided cases.,s'en tenir aux choses décidéesNOTA  Le respect des décisions des tribunaux supérieurs.
+stare decisis NOTE: The principle of reliance on decided cases.,s'en tenir aux choses décidées NOTA:  Le respect des décisions des tribunaux supérieurs.
 statement; solemn affirmation,déclaration
 statement of agreed fact and law,exposé conjoint des questions de droit et de fait; exposé des questions convenues de droit et de fait
 statement of non-contentious facts,exposé des faits non litigieux
@@ -1632,9 +1632,9 @@ substantive jurisdiction,compétence matérielle
 substantive law,droit substantiel; droit positif; droit matériel
 "subversion, to engage in an act of; subversion, to instigate",se livrer à la subversion; être l'instigateur d'actes visant au renversement
 successor state,État successeur
-suggested framework of analysisNOTE  In the Chairperson's guidelines.,cadre d'analyse suggéréNOTA  Dans les directives données par le président.
+suggested framework of analysis NOTE: In the Chairperson's guidelines.,cadre d'analyse suggéré NOTA:  Dans les directives données par le président.
 summary conviction offence,infraction punissable sur déclaration de culpabilité par procédure sommaire
-summoning of a witnessNOTE  Process by which a witness is summoned to appear for a hearing or an admissibility hearing.,assignation d'un témoinNOTA  Acte de procédure par lequel un témoin est sommé de comparaître à une audience ou à une enquête.
+summoning of a witness NOTE: Process by which a witness is summoned to appear for a hearing or an admissibility hearing.,assignation d'un témoin NOTA: Acte de procédure par lequel un témoin est sommé de comparaître à une audience ou à une enquête.
 summons,sommation; citation à comparaître
 superior court of record,cour supérieure d'archives
 supporting evidence,preuve à l'appui; faits pertinents
@@ -1693,7 +1693,7 @@ unconstitutional,inconstitutionnel
 uncontradicted evidence,témoignage irréfuté
 undertaking in support of an application for landing,engagement à l'appui d'une demande d'établissement
 undertaking of sponsorship,engagement de parrainage
-"Undocumented and Improperly Documented Claimants: Assessing the evidence/Enhancing proceduresNOTE  Commentary, Legal Services, March 11, 1997.","Observation sur les demandeurs non munis de documents ou non munis des documents voulus : Appréciation de la preuve/Amélioration des procéduresNOTA  Observations, Services juridiques, 11 mars 1997."
+"Undocumented and Improperly Documented Claimants: Assessing the evidence/Enhancing procedures NOTE:  Commentary, Legal Services, March 11, 1997.","Observation sur les demandeurs non munis de documents ou non munis des documents voulus : Appréciation de la preuve/Amélioration des procédures NOTA:  Observations, Services juridiques, 11 mars 1997."
 undue hardship,préjudice indu
 unduly repetitious evidence,élément de preuve inutilement répétitif
 unidentified source,source non identifiée; expéditeur inconnu
@@ -1711,7 +1711,7 @@ valid in law; correct in law (with regard to a decision),valide en droit; fondé
 "validity (of a passport, of a marriage)","validité (d'un passeport, d'un mariage)"
 variances in streaming,écarts notés dans la catégorisation
 violating human or international rights; violations of human or international rights,atteinte aux droits humains ou internationaux
-violence against womenNOTE  Refer to the guidelines entitled Women Refugee Claimants Fearing Gender-Related Persecution - Update. ,violence faite aux femmesNOTA  Voir les directives intitulées Revendicatrices du statut de réfugié craignant d'être persécutées en raison de leur sexe - Mise à jour. 
+violence against women NOTE:  Refer to the guidelines entitled Women Refugee Claimants Fearing Gender-Related Persecution - Update. ,violence faite aux femmes NOTA:  Voir les directives intitulées Revendicatrices du statut de réfugié craignant d'être persécutées en raison de leur sexe - Mise à jour. 
 visa officer,agent des visas
 visitor,visiteur
 voluntary departure,départ volontaire
@@ -1743,7 +1743,7 @@ without undue delay,avec diligence
 witness,témoin
 witness fees,indemnité de témoin
 woman refugee,femme réfugiée; réfugiée
-Women Refugee Claimants Fearing Gender-Related Persecution - UpdateNOTE  Chairperson's guidelines.,Revendicatrices du statut de réfugié craignant d'être persécutées en raison de leur sexe - Mise à jourNOTA  Directives du président.
+Women Refugee Claimants Fearing Gender-Related Persecution - Update NOTE:  Chairperson's guidelines.,Revendicatrices du statut de réfugié craignant d'être persécutées en raison de leur sexe - Mise à jour NOTA:  Directives du président.
 Working Group on Ethics (WGE) ,Groupe de travail sur l'éthique
 "Working Group on the Competency Profile for the HR Community ",Groupe de travail sur le profil de compétences pour les HR
 Working Group on Women Refugees,Groupe de travail sur les demandeures d'asile
