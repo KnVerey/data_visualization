@@ -7,8 +7,4 @@ class TermRecord
 		@id = 0
 	end
 
-	def output_record
-		id.to_s + ": " + source_lang_term + "\t\t" + translation
-	end
-
 end

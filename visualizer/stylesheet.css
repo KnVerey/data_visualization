@@ -189,3 +189,15 @@ input[type="search"]:focus {
 	border-radius: 1px;
 	outline-offset:-1px;
 }
+
+#terms {
+	list-style: none;
+}
+
+.source-term {
+	font-weight: bold;
+}
+
+.translation {
+	margin-bottom: 1em;
+}

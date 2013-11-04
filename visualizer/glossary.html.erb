@@ -22,21 +22,23 @@
 				<a href="#carousel" class="abs_right carousel-control"><img class="abs_right" src="Images/glyphicons_223_chevron-right.png" alt=""></a>
 				
 				<section id="term-list">
-					<% letter = "#" %>
-					<h3> <%= self.chapter_list[0] %> </h3>
-					<ol id="terms">
-						<% self.all_records.each do |record| %>
-							<% term_char1 = record.source_lang_term[0] %>
-							<% if letter == "#" %>
-								<% if %w[1 2 3 4 5 6 7 8 9 0].include?(term_char1) %>
-									<li class="source"><%= record.source_lang_term %></li>
-									<li class="translation"><%= record.translation %></li>
+					<% self.chapter_list.each do |letter| %>
+							<h3> <%= letter %> </h3>
+							<ol id="terms">
+								<% self.all_records.each do |record| %>
+									<% term_char1 = record.source_lang_term[0] %>
+									<% if letter == "#" %>
+										<% if %w[1 2 3 4 5 6 7 8 9 0].include?(term_char1) %>
+											<li class="source-term"><%= record.source_lang_term %></li>
+											<li class="translation"><%= record.translation %></li>
+										<% end %>
+									<% elsif term_char1.remove_accents.upcase == letter.remove_accents.upcase %>
+										<li class="source-term"><%= record.source_lang_term %></li>
+										<li class="translation"><%= record.translation %></li>
+									<% end %>
 								<% end %>
-							<% elsif term_char1.remove_accents.upcase == letter.remove_accents.upcase %>
-								<% record.output_record %>
-							<% end %>
-						<% end %>
-					</ol>
+							</ol>
+					<% end %>
  				</section>
 
 				<p class="carousel-indicators med-bg">
