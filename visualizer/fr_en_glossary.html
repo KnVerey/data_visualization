@@ -38,7 +38,7 @@
 		</script> 
 	</head>
 
-	<body class="h-full v-100p">
+	<body class="h-full v-100p" onload='show("A");'>
 		<header class="h-full container darkest-bg">
 			<h3 class="left accent">IRB Glossary: French to English</h3>
 			<form action="search_results.html" class="right vcenter">
@@ -47,10 +47,10 @@
 			</form>
 		</header>
 
-				<a href="#carousel" class="abs_left carousel-control"><img class="abs_left arrow" src="Images/glyphicons_224_chevron-left.png"></a>
-				<a href="#carousel" class="abs_right carousel-control"><img class="abs_right arrow" src="Images/glyphicons_223_chevron-right.png" alt=""></a>
+				<div class="abs_left styling-bar"></div>
+				<div class="abs_right styling-bar"></div>
 
-			<section id="carousel" class="h-full container med-bg">
+			<main class="h-full container med-bg">
 											<section id="A" class="term-list">
 							<h3> A </h3>
 							<ol class="terms">
@@ -3679,7 +3679,7 @@
 																								</ol>
 						</section>
 					
-				<p class="carousel-indicators med-bg">
+				<nav class="chapter-nav med-bg">
 				  				  	<a href="#A" onclick="hideAll(); show('A');">A</a>
 				  				  	<a href="#B" onclick="hideAll(); show('B');">B</a>
 				  				  	<a href="#C" onclick="hideAll(); show('C');">C</a>
@@ -3701,7 +3701,7 @@
 				  				  	<a href="#T" onclick="hideAll(); show('T');">T</a>
 				  				  	<a href="#U" onclick="hideAll(); show('U');">U</a>
 				  				  	<a href="#V" onclick="hideAll(); show('V');">V</a>
-				  				</p>
+				  				</nav>
 			</section>
 
 		<footer class="darkest-bg h-full">
