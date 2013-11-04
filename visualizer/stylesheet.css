@@ -50,11 +50,6 @@ header {
 	box-sizing:border-box;
 }
 
-main {
-	min-height:35em;
-	padding-bottom: 2em;
-}
-
 #carousel {
 	min-height: 90%;
 	position: relative;
@@ -77,8 +72,10 @@ main {
 }
 
 .carousel-control {
-	width:12.5%%;
+	position: fixed;
+	width:12.5%;
 	height: 100%;
+	z-index:9;
 }
 
 .arrow {
@@ -89,7 +86,7 @@ main {
 }
 
 .term-list {
-	padding:0 12.5%;
+	padding:0 12.5% 6em 12.5%;
 }
 
 .term-list h3 {
@@ -212,4 +209,22 @@ input[type="search"]:focus {
 
 .translation {
 	margin-bottom: 1em;
+}
+
+/*VISIBILITY*/
+
+.active {
+	display:block;
+}
+
+.hidden {
+	display:none;
+}
+
+.hideable {
+	display:inherit;
+}
+
+.term-list:focus {
+	opacity: 1;
 }
