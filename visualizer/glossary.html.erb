@@ -25,7 +25,7 @@
 				
 				<section id="term-list">
 					<% self.chapter_list.each do |letter| %>
-							<h3> <%= letter %> </h3>
+							<h3 id="<%= letter %>"> <%= letter %> </h3>
 							<ol id="terms">
 								<% self.all_records.each do |record| %>
 									<% term_char1 = record.source_lang_term[0] %>

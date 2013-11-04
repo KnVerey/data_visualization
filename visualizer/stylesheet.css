@@ -57,7 +57,6 @@ main {
 	min-height: 90%;
 	position: relative;
 	text-align: center;
-	padding-top: 3.5em;
 }
 
 .carousel-indicators {
@@ -69,6 +68,10 @@ main {
 	padding: 1em 0;
 	width: 75%;
 	list-style: none;
+}
+
+.carousel-indicators a {
+	padding:0 0.25em;
 }
 
 .carousel-control {
@@ -88,7 +91,11 @@ main {
 }
 
 #term-list {
-	padding:2em 12.5% 4em 12.5%;
+	padding:0 12.5% 4em 12.5%;
+}
+
+#term-list h3 {
+	padding-top: 2em;
 }
 
 #terms {
@@ -196,6 +203,11 @@ input[type="search"]:focus {
 
 #terms {
 	list-style: none;
+}
+
+#term-list h3 {
+	font-size: 3em;
+	font-variant: italic;
 }
 
 .source-term {
