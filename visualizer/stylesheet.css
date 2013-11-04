@@ -46,6 +46,8 @@ header {
 	min-height: 3em;
 	z-index: 100;
 	position: fixed;
+	padding: 0 1em;
+	box-sizing:border-box;
 }
 
 main {
@@ -86,20 +88,14 @@ main {
 	z-index: 10;
 }
 
-#carousel h3 {
+.term-list {
+	padding:0 12.5%;
+}
+
+.term-list h3 {
 	display: inline-block;
-}
-
-#term-list {
-	padding:0 12.5% 4em 12.5%;
-}
-
-#term-list h3 {
-	padding-top: 2em;
-}
-
-#terms {
-	padding:0 10%;
+	padding: 2em 0 1em 0;
+	margin: 0;
 }
 
 footer {
@@ -201,13 +197,13 @@ input[type="search"]:focus {
 	outline-offset:-1px;
 }
 
-#terms {
+.terms {
 	list-style: none;
+	padding:0 1em;
 }
 
-#term-list h3 {
+.term-list h3 {
 	font-size: 3em;
-	font-variant: italic;
 }
 
 .source-term {
