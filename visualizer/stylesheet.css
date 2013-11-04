@@ -20,7 +20,6 @@
 .h-full {
 	width:100%;
 	margin:0;
-	/*position:relative;*/
 }
 
 .v-100p {
@@ -59,13 +58,13 @@ main {
 	text-align: center;
 }
 
-#carousel-indicators {
-	position:fixed;
-	bottom:2.8em;
-	height:2em;
+.carousel-indicators {
+	position: fixed;
+	bottom: 2em;
+	min-height: 3em;
 	text-align: center;
-	margin:0 12.5%;
-	padding: 0;
+	margin: 0 12.5%;
+	padding: 1em 0;
 	width: 75%;
 	list-style: none;
 }
@@ -85,7 +84,11 @@ main {
 }
 
 #term-list {
-	padding:0 12.5% 4em 12.5%;
+	padding:2em 12.5% 4em 12.5%;
+}
+
+#terms {
+	padding:0 10%;
 }
 
 footer {
@@ -135,8 +138,14 @@ footer p {
 	filter: alpha(opacity=90);
 }
 
-#carousel-indicators {
+.carousel-indicators a {
 	font-weight: bolder;
+	color:black;
+}
+
+.carousel-indicators a:hover, .carousel-indicators a:focus {
+	color:white;
+	text-shadow:2px 1px 1px black;	
 }
 
 a {

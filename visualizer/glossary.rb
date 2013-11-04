@@ -35,7 +35,7 @@ class Glossary
 
 			%w[1 2 3 4 5 6 7 8 9 0].include?(term_char1) ? "#" : term_char1.upcase
 		end
-		return all_char1s.uniq.sort.to_s
+		return all_char1s.uniq.sort
 	end
 
 	def output_records_at(letter)
