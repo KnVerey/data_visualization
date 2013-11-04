@@ -171,6 +171,10 @@ input[type="submit"]:focus, input[type="submit"]:active {
 	color:white;
 }
 
+input[type="submit"]:hover {
+	background-color: rgba(255,255,255,0.5);
+}
+
 input[type="search"] {
 	border-radius: 3px;
 }
