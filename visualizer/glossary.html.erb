@@ -12,10 +12,12 @@
 				document.getElementById(id).style.display = 'block'; 
 			}
 
-			function hideAll() {
-				<%self.chapter_list.each do |letter| %>
-				document.getElementById("<%= letter %>").style.display = 'none';
-				<% end %>
+			function hide(id) {
+				document.getElementById(id).style.display = 'none';
+			}
+
+			function hideAll() { 
+				<%= chapter_list %>.forEach(hide);
 			}
 		</script> 
 	</head>
