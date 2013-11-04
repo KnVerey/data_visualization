@@ -1,7 +1,7 @@
 /*POSITIONING*/
 
 .container {
-	position:relative;
+	/*position:relative;*/
 	display:block;
 }
 
@@ -45,6 +45,7 @@
 header {
 	min-height: 3em;
 	z-index: 100;
+	position: fixed;
 }
 
 main {
@@ -56,6 +57,7 @@ main {
 	min-height: 90%;
 	position: relative;
 	text-align: center;
+	padding-top: 3.5em;
 }
 
 .carousel-indicators {
@@ -74,9 +76,11 @@ main {
 	height: 100%;
 }
 
-.carousel-control img {
+.arrow {
+	position: fixed;
 	top:45%;
 	padding: 0 1em;
+	z-index: 10;
 }
 
 #carousel h3 {
