@@ -12,6 +12,6 @@ csv_data = CSV.read("irb_glossary.csv")
 en_fr_glossary = Glossary.new("English to French",csv_data)
 # fr_en_glossary = Glossary.new("French to English",csv_data, true)
 
-html = ERB.new(template).result(en_fr_glossary.get_binding)
+html = ERB.new(template, nil, ">").result(en_fr_glossary.get_binding)
 
 File.open("glossary.html","w") {|file| file.puts html }
