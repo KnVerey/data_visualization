@@ -7,13 +7,15 @@
 		<link type="image/ico" rel="shortcut icon" href="Images/favicon.ico"/>
 		<meta charset="UTF-8"/>
 
-		<script type="text/javascript"> 
-			function show( id ) { 
-			document.getElementById(id).style.display = 'block'; 
-			} 
-			function hide_all() { 
-		   foreach (id in <%= self.chapter_list %>){
-	      document.getElementById(id).style.display = 'none';}
+		<script> 
+			function show(id) { 
+				document.getElementById(id).style.display = 'block'; 
+			}
+
+			function hideAll() {
+				<%self.chapter_list.each do |letter| %>
+				document.getElementById("<%= letter %>").style.display = 'none'
+				<% end %>
 			}
 		</script> 
 	</head>
@@ -32,7 +34,7 @@
 
 			<section id="carousel" class="h-full container med-bg">
 					<% self.chapter_list.each do |letter| %>
-						<section id="<%= letter %>" class="term-list <%= letter==chapter_list[15] ? "active" : "hidden" %>">
+						<section id="<%= letter %>" class="term-list">
 							<h3> <%= letter %> </h3>
 							<ol class="terms">
 								<% self.all_records.each do |record| %>
@@ -53,13 +55,13 @@
 
 				<p class="carousel-indicators med-bg">
 				  <% self.chapter_list.each do |letter| %>
-				  	<a href="#<%= letter %>"><%= letter %></a>
+				  	<a href="#<%= letter %>" onclick="hideAll(); show('<%= letter %>');"><%= letter %></a>
 				  <% end %>
 				</p>
 			</section>
 
 		<footer class="darkest-bg h-full">
-			<p>Information reproduced from <a href="http://www.irb-cisr.gc.ca">www.irb-cisr.gc.ca</a> for non-commercial purposes in accordance with that site's <a href="http://www.irb-cisr.gc.ca/Eng/notavi/Pages/index.aspx">Terms and Conditions</a>.  Icons from <a href="http://glyphicons.com/">glyphicons.com</a></p>
+			<p>Information reproduced from <a href="http://www.irb-cisr.gc.ca" >www.irb-cisr.gc.ca</a> for non-commercial purposes in accordance with that site's <a href="http://www.irb-cisr.gc.ca/Eng/notavi/Pages/index.aspx">Terms and Conditions</a>.  Icons from <a href="http://glyphicons.com/">glyphicons.com</a></p>
 		</footer>
 	</body>
 </html>
